@@ -1,7 +1,4 @@
 # pyRAP
-A pipeline to annotate Rend-seq data genome wide
-
-# pyRAP
 Pipeline to annotate Rend-seq data genomewide
 
 The pyRAP pipeline take wig files as input and outputs annotation files in GFF or GTF format.
