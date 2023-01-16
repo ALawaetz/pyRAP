@@ -1,0 +1,7 @@
+name: pyRAP_new
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+prefix: /Users/andreas/opt/anaconda3/envs/pyRAP_new
