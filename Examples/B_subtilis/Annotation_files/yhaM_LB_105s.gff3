@@ -1,0 +1,1014 @@
+NC_000964.3	RendSeq	rRNA	9672.0	11363.0	1000000.0	+	.	name=rrnO-16S; yhaM_LB_105s; start_dist=-138.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	9672.0	11430.0	1000000.0	+	.	name=rrnO-16S; yhaM_LB_105s; start_dist=-138.0; stop_dist=66.0
+NC_000964.3	RendSeq	rRNA	9672.0	14634.0	1000000.0	+	.	name=rrnO-16S_trnO-Ile_trnO-Ala_rrnO-23S; yhaM_LB_105s; start_dist=-138.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	9672.0	14807.0	1000000.0	+	.	name=rrnO-16S_trnO-Ile_trnO-Ala_rrnO-23S_rrnO-5S; yhaM_LB_105s; start_dist=-138.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	9811.0	11363.0	1000000.0	+	.	name=rrnO-16S; yhaM_LB_105s; start_dist=1.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	9811.0	11430.0	1000000.0	+	.	name=rrnO-16S; yhaM_LB_105s; start_dist=1.0; stop_dist=66.0
+NC_000964.3	RendSeq	rRNA	9811.0	14634.0	1000000.0	+	.	name=rrnO-16S_trnO-Ile_trnO-Ala_rrnO-23S; yhaM_LB_105s; start_dist=1.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	9811.0	14807.0	1000000.0	+	.	name=rrnO-16S_trnO-Ile_trnO-Ala_rrnO-23S_rrnO-5S; yhaM_LB_105s; start_dist=1.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	11711.0	14634.0	1000000.0	+	.	name=rrnO-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	11711.0	14807.0	1000000.0	+	.	name=rrnO-23S_rrnO-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	13555.0	14634.0	1000000.0	+	.	name=rrnO-23S; yhaM_LB_105s; start_dist=1846.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	13555.0	14807.0	1000000.0	+	.	name=rrnO-23S_rrnO-5S; yhaM_LB_105s; start_dist=-1137.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	13653.0	14634.0	1000000.0	+	.	name=rrnO-23S; yhaM_LB_105s; start_dist=1944.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	13653.0	14807.0	1000000.0	+	.	name=rrnO-23S_rrnO-5S; yhaM_LB_105s; start_dist=-1039.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	14692.0	14807.0	1000000.0	+	.	name=rrnO-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	CDS	15884.0	17381.0	1000000.0	+	dot	name=guaB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-31.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	17476.0	18907.0	1000000.0	+	.	name=S10_dacA_S11; yhaM_LB_105s; start_dist=23.0; stop_dist=42.0
+NC_000964.3	RendSeq	CDS	17476.0	22196.0	1000000.0	+	.	name=S10_dacA_S11_S12_yaaD_yaaE_rna5_serS; yhaM_LB_105s; start_dist=23.0; stop_dist=39.0
+NC_000964.3	RendSeq	sRNA	18039.0	18907.0	1000000.0	+	.	name=dacA_S11; yhaM_LB_105s; start_dist=505.0; stop_dist=42.0; sRNA_type=3'UTR
+NC_000964.3	RendSeq	CDS	18039.0	22196.0	1000000.0	+	.	name=dacA_S11_S12_yaaD_yaaE_rna5_serS; yhaM_LB_105s; start_dist=505.0; stop_dist=39.0
+NC_000964.3	RendSeq	CDS	20599.0	22196.0	1000000.0	+	.	name=rna5_serS; yhaM_LB_105s; start_dist=-12.0; stop_dist=39.0
+NC_000964.3	RendSeq	tRNA	22292.0	22384.0	1000000.0	+	.	name=trnSL-Ser1; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	25221.0	25794.0	1000000.0	-	dot	name=yaaI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	26416.0	26686.0	1000000.0	+	.	name=S17_scr_S18; yhaM_LB_105s; start_dist=33.0; stop_dist=-45.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	26787.0	28505.0	1000000.0	+	dot	name=dnaX; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	30085.0	31831.0	1000000.0	+	.	name=S19_rrnA-16S; yhaM_LB_105s; start_dist=9.0; stop_dist=-1.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	30085.0	31898.0	1000000.0	+	.	name=S19_rrnA-16S; yhaM_LB_105s; start_dist=9.0; stop_dist=66.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	transcript	30085.0	35102.0	1000000.0	+	.	name=S19_rrnA-16S_trnA-Ile_trnA-Ala_rrnA-23S; yhaM_LB_105s; start_dist=9.0; stop_dist=-1.0
+NC_000964.3	RendSeq	transcript	30085.0	35352.0	1000000.0	+	.	name=S19_rrnA-16S_trnA-Ile_trnA-Ala_rrnA-23S_S20_rrnA-5S; yhaM_LB_105s; start_dist=9.0; stop_dist=-3.0
+NC_000964.3	RendSeq	transcript	30085.0	35388.0	1000000.0	+	.	name=S19_rrnA-16S_trnA-Ile_trnA-Ala_rrnA-23S_S20_rrnA-5S_S21; yhaM_LB_105s; start_dist=9.0; stop_dist=33.0
+NC_000964.3	RendSeq	sRNA	30204.0	31831.0	1000000.0	+	.	name=S19_rrnA-16S; yhaM_LB_105s; start_dist=-75.0; stop_dist=-1.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	30204.0	31898.0	1000000.0	+	.	name=S19_rrnA-16S; yhaM_LB_105s; start_dist=-75.0; stop_dist=66.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	transcript	30204.0	35102.0	1000000.0	+	.	name=S19_rrnA-16S_trnA-Ile_trnA-Ala_rrnA-23S; yhaM_LB_105s; start_dist=-75.0; stop_dist=-1.0
+NC_000964.3	RendSeq	transcript	30204.0	35352.0	1000000.0	+	.	name=S19_rrnA-16S_trnA-Ile_trnA-Ala_rrnA-23S_S20_rrnA-5S; yhaM_LB_105s; start_dist=-75.0; stop_dist=-3.0
+NC_000964.3	RendSeq	transcript	30204.0	35388.0	1000000.0	+	.	name=S19_rrnA-16S_trnA-Ile_trnA-Ala_rrnA-23S_S20_rrnA-5S_S21; yhaM_LB_105s; start_dist=-75.0; stop_dist=33.0
+NC_000964.3	RendSeq	rRNA	30279.0	31831.0	1000000.0	+	.	name=rrnA-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	30279.0	31898.0	1000000.0	+	.	name=rrnA-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=66.0
+NC_000964.3	RendSeq	rRNA	30279.0	35102.0	1000000.0	+	.	name=rrnA-16S_trnA-Ile_trnA-Ala_rrnA-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	transcript	30279.0	35352.0	1000000.0	+	.	name=rrnA-16S_trnA-Ile_trnA-Ala_rrnA-23S_S20_rrnA-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	transcript	30279.0	35388.0	1000000.0	+	.	name=rrnA-16S_trnA-Ile_trnA-Ala_rrnA-23S_S20_rrnA-5S_S21; yhaM_LB_105s; start_dist=0.0; stop_dist=33.0
+NC_000964.3	RendSeq	rRNA	32179.0	35102.0	1000000.0	+	.	name=rrnA-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	32179.0	35352.0	1000000.0	+	.	name=rrnA-23S_S20_rrnA-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	32179.0	35388.0	1000000.0	+	.	name=rrnA-23S_S20_rrnA-5S_S21; yhaM_LB_105s; start_dist=2.0; stop_dist=33.0
+NC_000964.3	RendSeq	rRNA	34121.0	35102.0	1000000.0	+	.	name=rrnA-23S; yhaM_LB_105s; start_dist=1944.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	34121.0	35352.0	1000000.0	+	.	name=rrnA-23S_S20_rrnA-5S; yhaM_LB_105s; start_dist=-983.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	34121.0	35388.0	1000000.0	+	.	name=rrnA-23S_S20_rrnA-5S_S21; yhaM_LB_105s; start_dist=-983.0; stop_dist=33.0
+NC_000964.3	RendSeq	sRNA	35137.0	35352.0	1000000.0	+	.	name=S20_rrnA-5S; yhaM_LB_105s; start_dist=33.0; stop_dist=-3.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	35137.0	35388.0	1000000.0	+	.	name=S20_rrnA-5S_S21; yhaM_LB_105s; start_dist=33.0; stop_dist=33.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	rRNA	35237.0	35352.0	1000000.0	+	.	name=rrnA-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	35237.0	35388.0	1000000.0	+	.	name=rrnA-5S_S21; yhaM_LB_105s; start_dist=0.0; stop_dist=33.0
+NC_000964.3	RendSeq	CDS	37692.0	42895.0	1000000.0	+	.	name=S22_yaaO_tmk_yaaQ_yaaR_holB_yaaT_yabA; yhaM_LB_105s; start_dist=-28.0; stop_dist=37.0
+NC_000964.3	RendSeq	CDS	44797.0	45207.0	1000000.0	-	.	name=abrB; yhaM_LB_105s; start_dist=-69.0; stop_dist=51.0
+NC_000964.3	RendSeq	CDS	45633.0	47679.0	1000000.0	+	dot	name=metS; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=52.0
+NC_000964.3	RendSeq	CDS	48686.0	49942.0	1000000.0	+	dot	name=yabE; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=57.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	50002.0	50086.0	1000000.0	+	dot	name=S27; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=15.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	53483.0	55713.0	1000000.0	+	.	name=ipk_purR_yabJ_S32; yhaM_LB_105s; start_dist=-33.0; stop_dist=41.0
+NC_000964.3	RendSeq	sRNA	56193.0	56225.0	1000000.0	+	dot	name=S33; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-79.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	56323.0	59438.0	1000000.0	+	.	name=glmU_prs_ctc; yhaM_LB_105s; start_dist=-29.0; stop_dist=41.0
+NC_000964.3	RendSeq	CDS	56323.0	64702.0	1000000.0	+	.	name=glmU_prs_ctc_pth_yabK_S34_mfd_S35_spoVT; yhaM_LB_105s; start_dist=-29.0; stop_dist=67.0
+NC_000964.3	RendSeq	CDS	69626.0	70071.0	1000000.0	+	dot	name=yabR; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=59.0
+NC_000964.3	RendSeq	CDS	74893.0	76347.0	1000000.0	+	dot	name=tilS_hprT; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-36.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	75761.0	76347.0	1000000.0	+	dot	name=tilS_hprT; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-583.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	81731.0	82697.0	1000000.0	+	dot	name=cysK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-40.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	87272.0	87449.0	1000000.0	+	dot	name=folK_yazB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-129.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	90339.0	92088.0	1000000.0	+	.	name=S43_rrnJ-16S; yhaM_LB_105s; start_dist=21.0; stop_dist=-1.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	90339.0	95179.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S; yhaM_LB_105s; start_dist=21.0; stop_dist=-2.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	90339.0	95352.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S_rrnJ-5S; yhaM_LB_105s; start_dist=21.0; stop_dist=-2.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	transcript	90339.0	95450.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val; yhaM_LB_105s; start_dist=21.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	90339.0	95530.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr; yhaM_LB_105s; start_dist=21.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	90339.0	95846.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly; yhaM_LB_105s; start_dist=21.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	90339.0	96136.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly_trnJ-Leu2_trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=21.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	90460.0	92088.0	1000000.0	+	.	name=S43_rrnJ-16S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-1.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	90460.0	95179.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-2.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	90460.0	95352.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S_rrnJ-5S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-2.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	transcript	90460.0	95450.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val; yhaM_LB_105s; start_dist=-76.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	90460.0	95530.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr; yhaM_LB_105s; start_dist=-76.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	90460.0	95846.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly; yhaM_LB_105s; start_dist=-76.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	90460.0	96136.0	1000000.0	+	.	name=S43_rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly_trnJ-Leu2_trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=-76.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	90536.0	92088.0	1000000.0	+	.	name=rrnJ-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	90536.0	95179.0	1000000.0	+	.	name=rrnJ-16S_rrnJ-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	90536.0	95352.0	1000000.0	+	.	name=rrnJ-16S_rrnJ-23S_rrnJ-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	90536.0	95450.0	1000000.0	+	.	name=rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	90536.0	95530.0	1000000.0	+	.	name=rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	90536.0	95846.0	1000000.0	+	.	name=rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	90536.0	96136.0	1000000.0	+	.	name=rrnJ-16S_rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly_trnJ-Leu2_trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	92156.0	95179.0	1000000.0	+	.	name=rrnJ-23S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	92156.0	95352.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	92156.0	95450.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val; yhaM_LB_105s; start_dist=-98.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	92156.0	95530.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr; yhaM_LB_105s; start_dist=-98.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	92156.0	95846.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly; yhaM_LB_105s; start_dist=-98.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	92156.0	96136.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly_trnJ-Leu2_trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=-98.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	92256.0	95179.0	1000000.0	+	.	name=rrnJ-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	92256.0	95352.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	92256.0	95450.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	92256.0	95530.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	92256.0	95846.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	92256.0	96136.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly_trnJ-Leu2_trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	94198.0	95179.0	1000000.0	+	.	name=rrnJ-23S; yhaM_LB_105s; start_dist=1944.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	94198.0	95352.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S; yhaM_LB_105s; start_dist=-1039.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	94198.0	95450.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val; yhaM_LB_105s; start_dist=-1039.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	94198.0	95530.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr; yhaM_LB_105s; start_dist=-1039.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	94198.0	95846.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly; yhaM_LB_105s; start_dist=-1039.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	94198.0	96136.0	1000000.0	+	.	name=rrnJ-23S_rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly_trnJ-Leu2_trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=-1039.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	95237.0	95352.0	1000000.0	+	.	name=rrnJ-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	95237.0	95450.0	1000000.0	+	.	name=rrnJ-5S_trnJ-Val; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	95237.0	95530.0	1000000.0	+	.	name=rrnJ-5S_trnJ-Val_trnJ-Thr; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	95237.0	95846.0	1000000.0	+	.	name=rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	95237.0	96136.0	1000000.0	+	.	name=rrnJ-5S_trnJ-Val_trnJ-Thr_trnJ-Lys_trnJ-Leu1_trnJ-Gly_trnJ-Leu2_trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	95649.0	95846.0	1000000.0	+	.	name=trnJ-Leu1_trnJ-Gly; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	95649.0	96136.0	1000000.0	+	.	name=trnJ-Leu1_trnJ-Gly_trnJ-Leu2_trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	95687.0	95846.0	1000000.0	+	.	name=trnJ-Leu1_trnJ-Gly; yhaM_LB_105s; start_dist=38.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	95687.0	96136.0	1000000.0	+	.	name=trnJ-Leu1_trnJ-Gly_trnJ-Leu2_trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=38.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	95772.0	95846.0	1000000.0	+	.	name=trnJ-Gly; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	95772.0	96136.0	1000000.0	+	.	name=trnJ-Gly_trnJ-Leu2_trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	95994.0	96136.0	1000000.0	+	.	name=trnJ-Arg_trnJ-Pro; yhaM_LB_105s; start_dist=38.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	96098.0	96136.0	1000000.0	+	.	name=trnJ-Pro; yhaM_LB_105s; start_dist=38.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	96145.0	96221.0	1000000.0	+	dot	name=trnJ-Ala; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	96316.0	97944.0	1000000.0	+	.	name=rrnW-16S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	96316.0	101035.0	1000000.0	+	.	name=rrnW-16S_rrnW-23S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	96316.0	101208.0	1000000.0	+	.	name=rrnW-16S_rrnW-23S_rrnW-5S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	96392.0	97944.0	1000000.0	+	.	name=rrnW-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	96392.0	101035.0	1000000.0	+	.	name=rrnW-16S_rrnW-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	96392.0	101208.0	1000000.0	+	.	name=rrnW-16S_rrnW-23S_rrnW-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	98012.0	101035.0	1000000.0	+	.	name=rrnW-23S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	98012.0	101208.0	1000000.0	+	.	name=rrnW-23S_rrnW-5S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	98112.0	101035.0	1000000.0	+	.	name=rrnW-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	98112.0	101208.0	1000000.0	+	.	name=rrnW-23S_rrnW-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	100054.0	101035.0	1000000.0	+	.	name=rrnW-23S; yhaM_LB_105s; start_dist=1944.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	100054.0	101208.0	1000000.0	+	.	name=rrnW-23S_rrnW-5S; yhaM_LB_105s; start_dist=-1039.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	100290.0	101035.0	1000000.0	+	.	name=rrnW-23S; yhaM_LB_105s; start_dist=2180.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	100290.0	101208.0	1000000.0	+	.	name=rrnW-23S_rrnW-5S; yhaM_LB_105s; start_dist=-803.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	101093.0	101208.0	1000000.0	+	.	name=rrnW-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	CDS	103572.0	106056.0	1000000.0	+	dot	name=mcsB_clpC; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=52.0
+NC_000964.3	RendSeq	CDS	110998.0	112758.0	1000000.0	+	.	name=gltX_S46; yhaM_LB_105s; start_dist=-49.0; stop_dist=-41.0
+NC_000964.3	RendSeq	CDS	116575.0	117256.0	1000000.0	+	dot	name=sigH; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	118370.0	121030.0	1000000.0	+	.	name=nusG_S49_rplK_S50_rplA_rna30_rplJ_rplL; yhaM_LB_105s; start_dist=-82.0; stop_dist=52.0
+NC_000964.3	RendSeq	CDS	119559.0	121030.0	1000000.0	+	.	name=rplA_rna30_rplJ_rplL; yhaM_LB_105s; start_dist=-296.0; stop_dist=52.0
+NC_000964.3	RendSeq	sRNA	121705.0	121918.0	1000000.0	+	dot	name=S51; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=19.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	125646.0	129161.0	1000000.0	+	dot	name=rpoC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=84.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	129551.0	129588.0	1000000.0	+	dot	name=ybxF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=211.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	136781.0	136992.0	1000000.0	+	dot	name=rplD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=412.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	141226.0	141734.0	1000000.0	+	dot	name=rplE; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=31.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	153220.0	154740.0	1000000.0	+	.	name=truA_rna31_rplM_rpsI; yhaM_LB_105s; start_dist=283.0; stop_dist=48.0
+NC_000964.3	RendSeq	CDS	155135.0	155923.0	1000000.0	+	dot	name=ybaJ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-21.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	160818.0	162444.0	1000000.0	+	.	name=S64_rrnI-16S; yhaM_LB_105s; start_dist=-75.0; stop_dist=-1.0; sRNA_type=non_sRNA/CDS_overlap
+NC_000964.3	RendSeq	rRNA	160893.0	162444.0	1000000.0	+	.	name=rrnI-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	161449.0	162444.0	1000000.0	+	.	name=rrnI-16S; yhaM_LB_105s; start_dist=556.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	162512.0	165533.0	1000000.0	+	.	name=rrnI-23S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	162512.0	165706.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	162512.0	166033.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly; yhaM_LB_105s; start_dist=-98.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	162512.0	166140.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg; yhaM_LB_105s; start_dist=-98.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	162512.0	166244.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro; yhaM_LB_105s; start_dist=-98.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	162512.0	168052.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	162512.0	171139.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	162512.0	171312.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	162512.0	173048.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	162512.0	176139.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	162512.0	176312.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	162612.0	165533.0	1000000.0	+	.	name=rrnI-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	162612.0	165706.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	162612.0	166033.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	162612.0	166140.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	162612.0	166244.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	162612.0	168052.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S; yhaM_LB_105s; start_dist=2.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	162612.0	171139.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	162612.0	171312.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	162612.0	173048.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=2.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	162612.0	176139.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	162612.0	176312.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	164553.0	165533.0	1000000.0	+	.	name=rrnI-23S; yhaM_LB_105s; start_dist=1943.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	164553.0	165706.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	164553.0	166033.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly; yhaM_LB_105s; start_dist=-1038.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	164553.0	166140.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg; yhaM_LB_105s; start_dist=-1038.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	164553.0	166244.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro; yhaM_LB_105s; start_dist=-1038.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	164553.0	168052.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	164553.0	171139.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	164553.0	171312.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	164553.0	173048.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	164553.0	176139.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	164553.0	176312.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	164867.0	165533.0	1000000.0	+	.	name=rrnI-23S; yhaM_LB_105s; start_dist=2257.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	164867.0	165706.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S; yhaM_LB_105s; start_dist=-724.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	164867.0	166033.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly; yhaM_LB_105s; start_dist=-724.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	164867.0	166140.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg; yhaM_LB_105s; start_dist=-724.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	164867.0	166244.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro; yhaM_LB_105s; start_dist=-724.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	164867.0	168052.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S; yhaM_LB_105s; start_dist=-724.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	164867.0	171139.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=-724.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	164867.0	171312.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=-724.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	164867.0	173048.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=-724.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	164867.0	176139.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=-724.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	164867.0	176312.0	1000000.0	+	.	name=rrnI-23S_rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-724.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	165591.0	165706.0	1000000.0	+	.	name=rrnI-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	165591.0	166033.0	1000000.0	+	.	name=rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	165591.0	166140.0	1000000.0	+	.	name=rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	165591.0	166244.0	1000000.0	+	.	name=rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	165591.0	168052.0	1000000.0	+	.	name=rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	165591.0	171139.0	1000000.0	+	.	name=rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	165591.0	171312.0	1000000.0	+	.	name=rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	165591.0	173048.0	1000000.0	+	.	name=rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	165591.0	176139.0	1000000.0	+	.	name=rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	165591.0	176312.0	1000000.0	+	.	name=rrnI-5S_trnI-Asn_trnI-Thr_trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	tRNA	165754.0	165825.0	1000000.0	+	dot	name=trnI-Asn; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	165959.0	166033.0	1000000.0	+	.	name=trnI-Gly; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	165959.0	166140.0	1000000.0	+	.	name=trnI-Gly_trnI-Arg; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	165959.0	166244.0	1000000.0	+	.	name=trnI-Gly_trnI-Arg_trnI-Pro; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	165959.0	168052.0	1000000.0	+	.	name=trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	tRNA	165959.0	171139.0	1000000.0	+	.	name=trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	tRNA	165959.0	171312.0	1000000.0	+	.	name=trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	tRNA	165959.0	173048.0	1000000.0	+	.	name=trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	tRNA	165959.0	176139.0	1000000.0	+	.	name=trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	tRNA	165959.0	176312.0	1000000.0	+	.	name=trnI-Gly_trnI-Arg_trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	tRNA	166206.0	166244.0	1000000.0	+	.	name=trnI-Pro; yhaM_LB_105s; start_dist=38.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	166206.0	168052.0	1000000.0	+	.	name=trnI-Pro_trnI-Ala_rrnH-16S; yhaM_LB_105s; start_dist=38.0; stop_dist=-1.0
+NC_000964.3	RendSeq	tRNA	166206.0	171139.0	1000000.0	+	.	name=trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=38.0; stop_dist=-2.0
+NC_000964.3	RendSeq	tRNA	166206.0	171312.0	1000000.0	+	.	name=trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=38.0; stop_dist=-2.0
+NC_000964.3	RendSeq	tRNA	166206.0	173048.0	1000000.0	+	.	name=trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=38.0; stop_dist=-1.0
+NC_000964.3	RendSeq	tRNA	166206.0	176139.0	1000000.0	+	.	name=trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=38.0; stop_dist=-2.0
+NC_000964.3	RendSeq	tRNA	166206.0	176312.0	1000000.0	+	.	name=trnI-Pro_trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=38.0; stop_dist=-3.0
+NC_000964.3	RendSeq	tRNA	166252.0	168052.0	1000000.0	+	.	name=trnI-Ala_rrnH-16S; yhaM_LB_105s; start_dist=-1.0; stop_dist=-1.0
+NC_000964.3	RendSeq	tRNA	166252.0	171139.0	1000000.0	+	.	name=trnI-Ala_rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=-1.0; stop_dist=-2.0
+NC_000964.3	RendSeq	tRNA	166252.0	171312.0	1000000.0	+	.	name=trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=-1.0; stop_dist=-2.0
+NC_000964.3	RendSeq	tRNA	166252.0	173048.0	1000000.0	+	.	name=trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=-1.0; stop_dist=-1.0
+NC_000964.3	RendSeq	tRNA	166252.0	176139.0	1000000.0	+	.	name=trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=-1.0; stop_dist=-2.0
+NC_000964.3	RendSeq	tRNA	166252.0	176312.0	1000000.0	+	.	name=trnI-Ala_rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-1.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	166424.0	168052.0	1000000.0	+	.	name=rrnH-16S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	166424.0	171139.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	166424.0	171312.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	166424.0	173048.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	166424.0	176139.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	166424.0	176312.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	166500.0	168052.0	1000000.0	+	.	name=rrnH-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	166500.0	171139.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	166500.0	171312.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	166500.0	173048.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	166500.0	176139.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	166500.0	176312.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	166847.0	168052.0	1000000.0	+	.	name=rrnH-16S; yhaM_LB_105s; start_dist=347.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	166847.0	171139.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S; yhaM_LB_105s; start_dist=347.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	166847.0	171312.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=347.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	166847.0	173048.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=347.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	166847.0	176139.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=347.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	166847.0	176312.0	1000000.0	+	.	name=rrnH-16S_rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=347.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	168120.0	171139.0	1000000.0	+	.	name=rrnH-23S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	168120.0	171312.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	168120.0	173048.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	168120.0	176139.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	168120.0	176312.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	168220.0	171139.0	1000000.0	+	.	name=rrnH-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	168220.0	171312.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	168220.0	173048.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=2.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	168220.0	176139.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	168220.0	176312.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	170159.0	171139.0	1000000.0	+	.	name=rrnH-23S; yhaM_LB_105s; start_dist=1941.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	170159.0	171312.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	170159.0	173048.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	170159.0	176139.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	170159.0	176312.0	1000000.0	+	.	name=rrnH-23S_rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-1038.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	171197.0	171312.0	1000000.0	+	.	name=rrnH-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	171197.0	173048.0	1000000.0	+	.	name=rrnH-5S_rrnG-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	171197.0	176139.0	1000000.0	+	.	name=rrnH-5S_rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	171197.0	176312.0	1000000.0	+	.	name=rrnH-5S_rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	171422.0	173048.0	1000000.0	+	.	name=rrnG-16S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	171422.0	176139.0	1000000.0	+	.	name=rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	171422.0	176312.0	1000000.0	+	.	name=rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-76.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	171498.0	173048.0	1000000.0	+	.	name=rrnG-16S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	171498.0	176139.0	1000000.0	+	.	name=rrnG-16S_rrnG-23S; yhaM_LB_105s; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	171498.0	176312.0	1000000.0	+	.	name=rrnG-16S_rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	173116.0	176139.0	1000000.0	+	.	name=rrnG-23S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	173116.0	176312.0	1000000.0	+	.	name=rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-98.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	173216.0	176139.0	1000000.0	+	.	name=rrnG-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	173216.0	176312.0	1000000.0	+	.	name=rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	175060.0	176139.0	1000000.0	+	.	name=rrnG-23S; yhaM_LB_105s; start_dist=1846.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	175060.0	176312.0	1000000.0	+	.	name=rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-1137.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	175158.0	176139.0	1000000.0	+	.	name=rrnG-23S; yhaM_LB_105s; start_dist=1944.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	175158.0	176312.0	1000000.0	+	.	name=rrnG-23S_rrnG-5S; yhaM_LB_105s; start_dist=-1039.0; stop_dist=-3.0
+NC_000964.3	RendSeq	rRNA	176197.0	176312.0	1000000.0	+	.	name=rrnG-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-3.0
+NC_000964.3	RendSeq	CDS	193062.0	193557.0	1000000.0	-	dot	name=ybbJ; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=13.0
+NC_000964.3	RendSeq	tRNA	194183.0	194279.0	1000000.0	+	.	name=trnSL-Glu2; yhaM_LB_105s; start_dist=-22.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	194183.0	194358.0	1000000.0	+	.	name=trnSL-Glu2_trnSL-Val1; yhaM_LB_105s; start_dist=-22.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	194183.0	194542.0	1000000.0	+	.	name=trnSL-Glu2_trnSL-Val1_trnSL-Thr1_trnSL-Tyr1; yhaM_LB_105s; start_dist=-22.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	194821.0	195412.0	1000000.0	+	dot	name=sigW; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	196140.0	196212.0	1000000.0	+	dot	name=S68; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=8.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	204991.0	205301.0	1000000.0	+	.	name=S72_S73; yhaM_LB_105s; start_dist=14.0; stop_dist=91.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	226439.0	226565.0	1000000.0	+	dot	name=S80; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=3.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	231348.0	233011.0	1000000.0	+	dot	name=ybeC; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=44.0
+NC_000964.3	RendSeq	CDS	232974.0	233531.0	1000000.0	-	.	name=glpQ; yhaM_LB_105s; start_dist=364.0; stop_dist=40.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	232974.0	235481.0	1000000.0	-	.	name=glpQ_glpT_S82_S83; yhaM_LB_105s; start_dist=8.0; stop_dist=40.0
+NC_000964.3	RendSeq	sRNA	252315.0	252447.0	1000000.0	+	dot	name=S89; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-11.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	252468.0	253482.0	1000000.0	+	dot	name=ybfQ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-46.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	257750.0	258498.0	1000000.0	+	dot	name=ybgA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-41.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	276815.0	277082.0	1000000.0	+	dot	name=rna53; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=20.0
+NC_000964.3	RendSeq	CDS	293472.0	294575.0	1000000.0	+	dot	name=yccF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	298428.0	299398.0	1000000.0	+	dot	name=yccK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-38.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	303756.0	304307.0	1000000.0	-	dot	name=cwlK; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=48.0
+NC_000964.3	RendSeq	sRNA	303797.0	304387.0	1000000.0	+	dot	name=S103; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=10.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	308923.0	309291.0	1000000.0	+	dot	name=adcA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=591.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	320421.0	320708.0	1000000.0	-	dot	name=yceK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=15.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	320989.0	322269.0	1000000.0	+	dot	name=opuAA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	326855.0	327469.0	1000000.0	+	dot	name=ycgB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-33.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	332441.0	334062.0	1000000.0	-	dot	name=mdr; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-83.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	338204.0	338287.0	1000000.0	+	dot	name=S110; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=17.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	351821.0	352696.0	1000000.0	-	dot	name=ycgS; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=21.0
+NC_000964.3	RendSeq	CDS	372771.0	374520.0	1000000.0	-	dot	name=tlpC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	372821.0	375944.0	1000000.0	+	dot	name=S125; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=20.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	409130.0	409207.0	1000000.0	-	dot	name=S127; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-74.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	416235.0	417745.0	1000000.0	-	dot	name=dtpT; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-32.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	435992.0	438420.0	1000000.0	-	.	name=ycnB_ycnC_S131; yhaM_LB_105s; start_dist=-1.0; stop_dist=44.0
+NC_000964.3	RendSeq	CDS	439709.0	440023.0	1000000.0	+	dot	name=yczG; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	449172.0	449551.0	1000000.0	+	dot	name=ycnL; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-26.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	469426.0	470977.0	1000000.0	+	dot	name=ydaB; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=40.0
+NC_000964.3	RendSeq	sRNA	486257.0	486431.0	1000000.0	+	dot	name=S142; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-21.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	497004.0	497767.0	1000000.0	+	dot	name=S149; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=24.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	510878.0	511036.0	1000000.0	+	dot	name=S157; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=16.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	515016.0	515641.0	1000000.0	-	dot	name=ydcA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-26.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	519365.0	520232.0	1000000.0	+	dot	name=rsbRA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-43.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	528806.0	528873.0	1000000.0	+	.	name=trnS-Ser; yhaM_LB_105s; start_dist=23.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	528806.0	529060.0	1000000.0	+	.	name=trnS-Ser_trnS-Glu_trnS-Gln; yhaM_LB_105s; start_dist=23.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	529212.0	529255.0	1000000.0	+	dot	name=trnS-Leu1; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=38.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	546166.0	547011.0	1000000.0	-	dot	name=yddK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-45.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	551086.0	551518.0	1000000.0	+	dot	name=S176; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=12.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	557873.0	558112.0	1000000.0	+	dot	name=ydzN; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=54.0
+NC_000964.3	RendSeq	sRNA	560621.0	561177.0	1000000.0	+	dot	name=S181; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=11.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	575666.0	576098.0	1000000.0	-	dot	name=ydeP; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=46.0
+NC_000964.3	RendSeq	CDS	578305.0	578933.0	1000000.0	+	dot	name=ydeS; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-32.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	579379.0	579540.0	1000000.0	+	dot	name=S186; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=25.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	585868.0	586629.0	1000000.0	+	dot	name=ydfF; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=81.0
+NC_000964.3	RendSeq	CDS	602970.0	603599.0	1000000.0	+	dot	name=ydgC_ydgD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-42.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	608884.0	612084.0	1000000.0	+	.	name=ydgG_ydgH; yhaM_LB_105s; start_dist=-49.0; stop_dist=39.0
+NC_000964.3	RendSeq	CDS	612836.0	613325.0	1000000.0	-	dot	name=ydgJ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=5.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	613563.0	613640.0	1000000.0	+	dot	name=S199; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=11.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	615623.0	615751.0	1000000.0	-	dot	name=S200; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=10.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	621728.0	621846.0	1000000.0	+	dot	name=S202; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=15.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	transcript	626325.0	626446.0	1000000.0	-	dot	name=rna62; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=21.0
+NC_000964.3	RendSeq	tRNA	635148.0	635273.0	1000000.0	+	.	name=trnE-Arg_trnE-Gly; yhaM_LB_105s; start_dist=38.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	635294.0	636986.0	1000000.0	+	.	name=rrnE-16S; yhaM_LB_105s; start_dist=-139.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	635294.0	640080.0	1000000.0	+	.	name=rrnE-16S_rrnE-23S; yhaM_LB_105s; start_dist=-139.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	635294.0	640253.0	1000000.0	+	.	name=rrnE-16S_rrnE-23S_rrnE-5S; yhaM_LB_105s; start_dist=-139.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	635294.0	640344.0	1000000.0	+	.	name=rrnE-16S_rrnE-23S_rrnE-5S_trnE-Met; yhaM_LB_105s; start_dist=-139.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	635434.0	636986.0	1000000.0	+	.	name=rrnE-16S; yhaM_LB_105s; start_dist=1.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	635434.0	640080.0	1000000.0	+	.	name=rrnE-16S_rrnE-23S; yhaM_LB_105s; start_dist=1.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	635434.0	640253.0	1000000.0	+	.	name=rrnE-16S_rrnE-23S_rrnE-5S; yhaM_LB_105s; start_dist=1.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	635434.0	640344.0	1000000.0	+	.	name=rrnE-16S_rrnE-23S_rrnE-5S_trnE-Met; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	637054.0	640080.0	1000000.0	+	.	name=rrnE-23S; yhaM_LB_105s; start_dist=-101.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	637054.0	640253.0	1000000.0	+	.	name=rrnE-23S_rrnE-5S; yhaM_LB_105s; start_dist=-101.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	637054.0	640344.0	1000000.0	+	.	name=rrnE-23S_rrnE-5S_trnE-Met; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	637157.0	640080.0	1000000.0	+	.	name=rrnE-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	637157.0	640253.0	1000000.0	+	.	name=rrnE-23S_rrnE-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	637157.0	640344.0	1000000.0	+	.	name=rrnE-23S_rrnE-5S_trnE-Met; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	639001.0	640080.0	1000000.0	+	.	name=rrnE-23S; yhaM_LB_105s; start_dist=1846.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	639001.0	640253.0	1000000.0	+	.	name=rrnE-23S_rrnE-5S; yhaM_LB_105s; start_dist=-1137.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	639001.0	640344.0	1000000.0	+	.	name=rrnE-23S_rrnE-5S_trnE-Met; yhaM_LB_105s; start_dist=-1137.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	639099.0	640080.0	1000000.0	+	.	name=rrnE-23S; yhaM_LB_105s; start_dist=1944.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	639099.0	640253.0	1000000.0	+	.	name=rrnE-23S_rrnE-5S; yhaM_LB_105s; start_dist=-1039.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	639099.0	640344.0	1000000.0	+	.	name=rrnE-23S_rrnE-5S_trnE-Met; yhaM_LB_105s; start_dist=-1039.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	640138.0	640253.0	1000000.0	+	.	name=rrnE-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	640138.0	640344.0	1000000.0	+	.	name=rrnE-5S_trnE-Met; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	640428.0	640481.0	1000000.0	+	.	name=trnE-Asp; yhaM_LB_105s; start_dist=23.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	647468.0	648743.0	1000000.0	+	.	name=ydiH_tatAY_tatCY; yhaM_LB_105s; start_dist=-292.0; stop_dist=39.0
+NC_000964.3	RendSeq	CDS	648930.0	649703.0	1000000.0	-	dot	name=ydiK_ydiL; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-39.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	649838.0	651989.0	1000000.0	+	.	name=S208_groES_groEL_S209_S210; yhaM_LB_105s; start_dist=10.0; stop_dist=28.0
+NC_000964.3	RendSeq	CDS	679365.0	679811.0	1000000.0	+	.	name=ydjM; yhaM_LB_105s; start_dist=-25.0; stop_dist=50.0
+NC_000964.3	RendSeq	CDS	688145.0	689146.0	1000000.0	+	dot	name=yeaC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-39.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	692609.0	692739.0	1000000.0	+	dot	name=S227; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-1.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	694662.0	696023.0	1000000.0	+	dot	name=pbuG; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=39.0
+NC_000964.3	RendSeq	CDS	713639.0	715406.0	1000000.0	+	dot	name=yerA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	715416.0	716428.0	1000000.0	+	dot	name=yerB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-17.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	718591.0	724865.0	1000000.0	+	.	name=pcrB_pcrA_ligA_yerH; yhaM_LB_105s; start_dist=-31.0; stop_dist=40.0
+NC_000964.3	RendSeq	CDS	726802.0	728318.0	1000000.0	-	dot	name=opuE; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=38.0
+NC_000964.3	RendSeq	sRNA	728695.0	728731.0	1000000.0	+	dot	name=S237; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=97.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	731695.0	731939.0	1000000.0	+	dot	name=gatB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=1186.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	732824.0	732895.0	1000000.0	-	dot	name=S238; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=3.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	732914.0	736113.0	1000000.0	+	dot	name=swrC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-2.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	747554.0	747922.0	1000000.0	-	dot	name=yeeF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=1641.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	753801.0	754401.0	1000000.0	+	dot	name=yezE; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-16.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	785543.0	785930.0	1000000.0	-	dot	name=yetH; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=-0.0
+NC_000964.3	RendSeq	putative_sRNA	788636.0	788674.0	1000000.0	+	dot	name=yetK; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-954.0; sRNA_type=intragenic
+NC_000964.3	RendSeq	CDS	789652.0	790182.0	1000000.0	-	dot	name=yetL; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	791462.0	792565.0	1000000.0	-	dot	name=yetN; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-33.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	804657.0	805389.0	1000000.0	-	dot	name=yfnB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	807045.0	808548.0	1000000.0	+	dot	name=yfmT; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-46.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	809528.0	811446.0	1000000.0	+	dot	name=yfmR; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-29.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	812116.0	812562.0	1000000.0	+	dot	name=yfmP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	814344.0	815991.0	1000000.0	-	.	name=yfmM; yhaM_LB_105s; start_dist=-51.0; stop_dist=40.0
+NC_000964.3	RendSeq	CDS	819311.0	820573.0	1000000.0	-	dot	name=yfmI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-42.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	836626.0	837744.0	1000000.0	+	dot	name=nosA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	850321.0	851819.0	1000000.0	+	.	name=treP; yhaM_LB_105s; start_dist=-46.0; stop_dist=40.0
+NC_000964.3	RendSeq	CDS	861586.0	861833.0	1000000.0	-	dot	name=yfkK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-32.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	869559.0	870390.0	1000000.0	+	dot	name=pdaA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=40.0
+NC_000964.3	RendSeq	CDS	873402.0	874890.0	1000000.0	+	dot	name=yfjO; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=88.0
+NC_000964.3	RendSeq	CDS	885629.0	885845.0	1000000.0	+	dot	name=sspH; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=37.0
+NC_000964.3	RendSeq	CDS	902506.0	903734.0	1000000.0	+	dot	name=yfiI; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=47.0
+NC_000964.3	RendSeq	CDS	916730.0	919348.0	1000000.0	+	dot	name=mprF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-48.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	919329.0	920375.0	1000000.0	-	.	name=yfiY; yhaM_LB_105s; start_dist=-32.0; stop_dist=37.0
+NC_000964.3	RendSeq	CDS	923548.0	924209.0	1000000.0	+	.	name=yfhC; yhaM_LB_105s; start_dist=-39.0; stop_dist=38.0
+NC_000964.3	RendSeq	sRNA	925467.0	925632.0	1000000.0	+	dot	name=S288; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=7.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	935441.0	935588.0	1000000.0	-	dot	name=S296; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-0.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	937900.0	938205.0	1000000.0	+	dot	name=sspE; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=51.0
+NC_000964.3	RendSeq	CDS	944959.0	945326.0	1000000.0	-	dot	name=ygzB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-14.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	946424.0	948249.0	1000000.0	+	.	name=S304_rrnD-16S; yhaM_LB_105s; start_dist=1.0; stop_dist=-1.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	946424.0	951343.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S; yhaM_LB_105s; start_dist=1.0; stop_dist=-2.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	946424.0	951572.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	transcript	946424.0	951656.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946424.0	951753.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946424.0	952030.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946424.0	952118.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946424.0	952206.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946424.0	952391.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946424.0	952470.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946424.0	952570.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946424.0	952775.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946424.0	952947.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946424.0	952984.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=1.0; stop_dist=37.0
+NC_000964.3	RendSeq	sRNA	946556.0	948249.0	1000000.0	+	.	name=S304_rrnD-16S; yhaM_LB_105s; start_dist=133.0; stop_dist=-1.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	946556.0	951343.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S; yhaM_LB_105s; start_dist=133.0; stop_dist=-2.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	sRNA	946556.0	951572.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0; sRNA_type=independent_w_isoform
+NC_000964.3	RendSeq	transcript	946556.0	951656.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946556.0	951753.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946556.0	952030.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946556.0	952118.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946556.0	952206.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946556.0	952391.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946556.0	952470.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946556.0	952570.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946556.0	952775.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946556.0	952947.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=133.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946556.0	952984.0	1000000.0	+	.	name=S304_rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=133.0; stop_dist=37.0
+NC_000964.3	RendSeq	rRNA	946697.0	948249.0	1000000.0	+	.	name=rrnD-16S; yhaM_LB_105s; start_dist=1.0; stop_dist=-1.0
+NC_000964.3	RendSeq	rRNA	946697.0	951343.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S; yhaM_LB_105s; start_dist=1.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	946697.0	951572.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	951656.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	951753.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	952030.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	952118.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	952206.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	952391.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	952470.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	952570.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	952775.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	952947.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=1.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	946697.0	952984.0	1000000.0	+	.	name=rrnD-16S_rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=1.0; stop_dist=37.0
+NC_000964.3	RendSeq	rRNA	948317.0	951343.0	1000000.0	+	.	name=rrnD-23S; yhaM_LB_105s; start_dist=-101.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	948317.0	951572.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	951656.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	951753.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	952030.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	952118.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	952206.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	952391.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	952470.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	952570.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	952775.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	952947.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=-101.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948317.0	952984.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=-101.0; stop_dist=37.0
+NC_000964.3	RendSeq	rRNA	948420.0	951343.0	1000000.0	+	.	name=rrnD-23S; yhaM_LB_105s; start_dist=2.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	948420.0	951572.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	951656.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	951753.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	952030.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	952118.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	952206.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	952391.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	952470.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	952570.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	952775.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	952947.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=2.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	948420.0	952984.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=2.0; stop_dist=37.0
+NC_000964.3	RendSeq	rRNA	950362.0	951343.0	1000000.0	+	.	name=rrnD-23S; yhaM_LB_105s; start_dist=1944.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	950362.0	951572.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	951656.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	951753.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	952030.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	952118.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	952206.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	952391.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	952470.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	952570.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	952775.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	952947.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=-984.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	950362.0	952984.0	1000000.0	+	.	name=rrnD-23S_S305_rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=-984.0; stop_dist=37.0
+NC_000964.3	RendSeq	rRNA	951457.0	951572.0	1000000.0	+	.	name=rrnD-5S; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	951457.0	951656.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	951457.0	951753.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn_trnD-Ser; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	951457.0	952030.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	951457.0	952118.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	951457.0	952206.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	951457.0	952391.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	951457.0	952470.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	951457.0	952570.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	951457.0	952775.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	rRNA	951457.0	952947.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	951457.0	952984.0	1000000.0	+	.	name=rrnD-5S_trnD-Asn_trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=0.0; stop_dist=37.0
+NC_000964.3	RendSeq	tRNA	951661.0	951753.0	1000000.0	+	.	name=trnD-Ser; yhaM_LB_105s; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	951661.0	952030.0	1000000.0	+	.	name=trnD-Ser_trnD-Glu_trnD-Val_trnD-Met; yhaM_LB_105s; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	951661.0	952118.0	1000000.0	+	.	name=trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp; yhaM_LB_105s; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	951661.0	952206.0	1000000.0	+	.	name=trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe; yhaM_LB_105s; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	951661.0	952391.0	1000000.0	+	.	name=trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr; yhaM_LB_105s; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	951661.0	952470.0	1000000.0	+	.	name=trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp; yhaM_LB_105s; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	951661.0	952570.0	1000000.0	+	.	name=trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His; yhaM_LB_105s; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	951661.0	952775.0	1000000.0	+	.	name=trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly; yhaM_LB_105s; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	951661.0	952947.0	1000000.0	+	.	name=trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	951661.0	952984.0	1000000.0	+	.	name=trnD-Ser_trnD-Glu_trnD-Val_trnD-Met_trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=-1.0; stop_dist=37.0
+NC_000964.3	RendSeq	tRNA	952065.0	952118.0	1000000.0	+	.	name=trnD-Asp; yhaM_LB_105s; start_dist=23.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952065.0	952206.0	1000000.0	+	.	name=trnD-Asp_trnD-Phe; yhaM_LB_105s; start_dist=23.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952065.0	952391.0	1000000.0	+	.	name=trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr; yhaM_LB_105s; start_dist=23.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952065.0	952470.0	1000000.0	+	.	name=trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp; yhaM_LB_105s; start_dist=23.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952065.0	952570.0	1000000.0	+	.	name=trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His; yhaM_LB_105s; start_dist=23.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952065.0	952775.0	1000000.0	+	.	name=trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly; yhaM_LB_105s; start_dist=23.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952065.0	952947.0	1000000.0	+	.	name=trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=23.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952065.0	952984.0	1000000.0	+	.	name=trnD-Asp_trnD-Phe_trnD-Thr_trnD-Tyr_trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=23.0; stop_dist=37.0
+NC_000964.3	RendSeq	tRNA	952397.0	952470.0	1000000.0	+	.	name=trnD-Trp; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952397.0	952570.0	1000000.0	+	.	name=trnD-Trp_trnD-His; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952397.0	952775.0	1000000.0	+	.	name=trnD-Trp_trnD-His_trnD-Gln_trnD-Gly; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952397.0	952947.0	1000000.0	+	.	name=trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952397.0	952984.0	1000000.0	+	.	name=trnD-Trp_trnD-His_trnD-Gln_trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=0.0; stop_dist=37.0
+NC_000964.3	RendSeq	tRNA	952701.0	952775.0	1000000.0	+	.	name=trnD-Gly; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952701.0	952947.0	1000000.0	+	.	name=trnD-Gly_trnD-Cys_trnD-Leu1; yhaM_LB_105s; start_dist=0.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	952701.0	952984.0	1000000.0	+	.	name=trnD-Gly_trnD-Cys_trnD-Leu1_S306; yhaM_LB_105s; start_dist=0.0; stop_dist=37.0
+NC_000964.3	RendSeq	CDS	953373.0	954168.0	1000000.0	-	dot	name=spo0M; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-19.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	959535.0	961008.0	1000000.0	-	dot	name=katA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-22.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	966671.0	966902.0	1000000.0	-	dot	name=ygzD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-31.0; stop_dist=-0.0
+NC_000964.3	RendSeq	putative_sRNA	980313.0	980358.0	1000000.0	+	dot	name=yhcD; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-110.0; sRNA_type=intragenic
+NC_000964.3	RendSeq	CDS	980440.0	980468.0	1000000.0	+	dot	name=yhcD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=127.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	984466.0	984584.0	1000000.0	-	dot	name=S315; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=9.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	984797.0	984900.0	1000000.0	+	dot	name=S317; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=7.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	1002354.0	1002500.0	1000000.0	+	dot	name=S321; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-56.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	1004860.0	1004923.0	1000000.0	+	dot	name=S322; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=25.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1018998.0	1020042.0	1000000.0	+	dot	name=lytE; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=40.0
+NC_000964.3	RendSeq	CDS	1020073.0	1020978.0	1000000.0	-	dot	name=citR; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-30.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	1030069.0	1030162.0	1000000.0	-	dot	name=S330; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=9.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1033458.0	1033903.0	1000000.0	-	dot	name=cueR; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-14.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1040826.0	1041799.0	1000000.0	-	.	name=yheN_S336; yhaM_LB_105s; start_dist=10.0; stop_dist=35.0
+NC_000964.3	RendSeq	CDS	1044373.0	1044898.0	1000000.0	-	dot	name=nhaX; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	1056539.0	1056579.0	1000000.0	+	dot	name=S346; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-43.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1064823.0	1066072.0	1000000.0	+	dot	name=yhaO; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-23.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1069042.0	1070031.0	1000000.0	+	dot	name=yhaM; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=45.0
+NC_000964.3	RendSeq	CDS	1070364.0	1071104.0	1000000.0	-	dot	name=prsA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=138.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	1075165.0	1075246.0	1000000.0	-	dot	name=S355; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=6.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1083229.0	1083743.0	1000000.0	-	dot	name=yhgC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-14.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1098120.0	1098281.0	1000000.0	-	dot	name=yhfH; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-21.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1098379.0	1099146.0	1000000.0	+	dot	name=yhfI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-33.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1103104.0	1104421.0	1000000.0	+	dot	name=yhfN; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=37.0
+NC_000964.3	RendSeq	CDS	1108736.0	1109343.0	1000000.0	-	dot	name=phoE; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-26.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1112581.0	1113918.0	1000000.0	-	dot	name=hemAT; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=39.0
+NC_000964.3	RendSeq	CDS	1117734.0	1118658.0	1000000.0	-	dot	name=yhxD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1118804.0	1119119.0	1000000.0	+	dot	name=yhjA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-46.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1121272.0	1121506.0	1000000.0	+	dot	name=S369; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=5.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1121525.0	1122173.0	1000000.0	+	dot	name=yhjE; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1136294.0	1139820.0	1000000.0	+	dot	name=addB_addA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-26.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1150479.0	1151119.0	1000000.0	+	dot	name=S381; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=15.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1153762.0	1156473.0	1000000.0	+	dot	name=wprA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1164250.0	1164369.0	1000000.0	+	dot	name=S390; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-4.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1164370.0	1165467.0	1000000.0	+	dot	name=yisS; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=69.0
+NC_000964.3	RendSeq	CDS	1166725.0	1168191.0	1000000.0	+	dot	name=yisV; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-12.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1168838.0	1168960.0	1000000.0	-	dot	name=S392; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=12.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1180909.0	1181428.0	1000000.0	-	dot	name=yitK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1181499.0	1182443.0	1000000.0	+	dot	name=yitL; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=48.0
+NC_000964.3	RendSeq	CDS	1188135.0	1190038.0	1000000.0	+	.	name=S395_yitT_S396_ipi; yhaM_LB_105s; start_dist=10.0; stop_dist=33.0
+NC_000964.3	RendSeq	CDS	1190490.0	1191343.0	1000000.0	-	dot	name=yitU; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-41.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1191397.0	1192190.0	1000000.0	+	dot	name=yitV; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-26.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1206582.0	1207582.0	1000000.0	+	dot	name=med; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-47.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1217326.0	1218110.0	1000000.0	+	dot	name=yjbA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=32.0
+NC_000964.3	RendSeq	CDS	1218076.0	1219105.0	1000000.0	-	dot	name=trpS; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=37.0
+NC_000964.3	RendSeq	sRNA	1228940.0	1229067.0	1000000.0	+	dot	name=S411; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=14.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	1233399.0	1233545.0	1000000.0	+	dot	name=S415; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=21.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1233580.0	1235081.0	1000000.0	-	.	name=yjbH_yjbI_S417; yhaM_LB_105s; start_dist=7.0; stop_dist=34.0
+NC_000964.3	RendSeq	CDS	1236581.0	1236977.0	1000000.0	+	dot	name=yjbL; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1240297.0	1240355.0	1000000.0	+	dot	name=S419; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=18.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	transcript	1242237.0	1242370.0	1000000.0	+	dot	name=rna95; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1247735.0	1248564.0	1000000.0	+	dot	name=fabI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-53.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	1258282.0	1258424.0	1000000.0	+	dot	name=rna96; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-22.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1265432.0	1265472.0	1000000.0	+	dot	name=S433; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-57.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1272689.0	1274677.0	1000000.0	+	dot	name=manP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-36.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1277686.0	1278219.0	1000000.0	+	dot	name=yjdI; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=54.0
+NC_000964.3	RendSeq	CDS	1278205.0	1278414.0	1000000.0	-	dot	name=yjzH; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-15.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	1279022.0	1279512.0	1000000.0	+	dot	name=S444; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-11.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1283169.0	1283351.0	1000000.0	-	dot	name=yjfB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-15.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1284371.0	1284800.0	1000000.0	-	dot	name=yjgA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-31.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1293776.0	1293991.0	1000000.0	-	dot	name=yjzI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1294088.0	1294994.0	1000000.0	+	.	name=hemD; yhaM_LB_105s; start_dist=-50.0; stop_dist=44.0
+NC_000964.3	RendSeq	CDS	1295748.0	1296539.0	1000000.0	-	dot	name=yjkB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-39.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1299074.0	1300318.0	1000000.0	+	dot	name=ndh; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=66.0
+NC_000964.3	RendSeq	CDS	1313840.0	1314339.0	1000000.0	-	dot	name=yjoA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-35.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1315840.0	1317005.0	1000000.0	+	dot	name=rapA_phrA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-29.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1317157.0	1317429.0	1000000.0	-	dot	name=yjpA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-15.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1318986.0	1319613.0	1000000.0	+	dot	name=yjqB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1321206.0	1321328.0	1000000.0	-	dot	name=S455; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-1.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1357936.0	1359339.0	1000000.0	-	dot	name=htrA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-54.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1371987.0	1372553.0	1000000.0	+	dot	name=ykhA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-48.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	1376327.0	1376439.0	1000000.0	+	dot	name=rna98; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-1.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1379605.0	1380905.0	1000000.0	+	dot	name=proA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=53.0
+NC_000964.3	RendSeq	CDS	1381993.0	1382430.0	1000000.0	+	dot	name=ohrB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1382628.0	1383278.0	1000000.0	+	dot	name=S468; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-27.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1387187.0	1388039.0	1000000.0	+	dot	name=rsbRB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-19.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	1391739.0	1391844.0	1000000.0	-	dot	name=rna101; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=7.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1396013.0	1397409.0	1000000.0	+	dot	name=mgtE; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=41.0
+NC_000964.3	RendSeq	CDS	1409885.0	1410577.0	1000000.0	+	dot	name=ykoX; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1429939.0	1430160.0	1000000.0	-	dot	name=S487; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=28.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	1430482.0	1430554.0	1000000.0	-	dot	name=S488; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=17.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1433170.0	1433676.0	1000000.0	+	.	name=mhqR; yhaM_LB_105s; start_dist=-29.0; stop_dist=40.0
+NC_000964.3	RendSeq	CDS	1433485.0	1433676.0	1000000.0	+	.	name=mhqR; yhaM_LB_105s; start_dist=286.0; stop_dist=40.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	1433635.0	1434461.0	1000000.0	-	dot	name=motB_motA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=41.0
+NC_000964.3	RendSeq	sRNA	1439340.0	1439345.0	1000000.0	+	dot	name=S494; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-102.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	1446806.0	1447052.0	1000000.0	+	dot	name=S499; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-35.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1448506.0	1449169.0	1000000.0	+	dot	name=ykvT; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=37.0
+NC_000964.3	RendSeq	CDS	1453654.0	1454782.0	1000000.0	+	dot	name=ykvY; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-37.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1463614.0	1465595.0	1000000.0	+	dot	name=mcpC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-14.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1465674.0	1466599.0	1000000.0	+	dot	name=ykwC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-59.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1473573.0	1474516.0	1000000.0	+	dot	name=cheV; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-32.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1474517.0	1475024.0	1000000.0	-	dot	name=ykyB; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=43.0
+NC_000964.3	RendSeq	sRNA	1483650.0	1483955.0	1000000.0	+	dot	name=S513; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-21.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1484051.0	1484356.0	1000000.0	+	dot	name=ykuJ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-66.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1488945.0	1489683.0	1000000.0	+	dot	name=dapH; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1493752.0	1494362.0	1000000.0	+	dot	name=rok; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-35.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1511267.0	1511889.0	1000000.0	+	dot	name=sipT; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-41.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1512345.0	1513995.0	1000000.0	+	dot	name=ykpA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1521351.0	1523118.0	1000000.0	+	dot	name=adeC; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=34.0
+NC_000964.3	RendSeq	CDS	1523082.0	1525038.0	1000000.0	-	.	name=S528_rnjA_ykzG; yhaM_LB_105s; start_dist=-38.0; stop_dist=36.0
+NC_000964.3	RendSeq	CDS	1526195.0	1526773.0	1000000.0	-	dot	name=def; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	1528115.0	1528325.0	1000000.0	+	dot	name=S531; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=15.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	1535752.0	1535834.0	1000000.0	-	dot	name=S535; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=13.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1536235.0	1536896.0	1000000.0	-	dot	name=yktB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-23.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1546092.0	1547959.0	1000000.0	+	dot	name=bipA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-29.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1550797.0	1551297.0	1000000.0	-	dot	name=ylaL; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-15.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1552412.0	1552734.0	1000000.0	+	dot	name=ylaN; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=41.0
+NC_000964.3	RendSeq	CDS	1554185.0	1557671.0	1000000.0	+	dot	name=pycA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=40.0
+NC_000964.3	RendSeq	CDS	1559309.0	1560322.0	1000000.0	+	dot	name=ctaB; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=96.0
+NC_000964.3	RendSeq	sRNA	1560376.0	1560465.0	1000000.0	+	dot	name=S544; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=14.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1564422.0	1565348.0	1000000.0	+	dot	name=ctaG; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=33.0
+NC_000964.3	RendSeq	CDS	1565347.0	1565737.0	1000000.0	-	dot	name=ylbA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	1580064.0	1580120.0	1000000.0	+	dot	name=S554; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=17.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1597832.0	1599020.0	1000000.0	+	dot	name=ftsZ; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=40.0
+NC_000964.3	RendSeq	CDS	1609284.0	1610163.0	1000000.0	+	dot	name=ylmD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-43.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	1613066.0	1613304.0	1000000.0	+	dot	name=rna107; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-12.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	1618161.0	1618276.0	1000000.0	+	dot	name=rna108; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-1.0
+NC_000964.3	RendSeq	CDS	1634776.0	1634834.0	1000000.0	+	dot	name=sumT; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=715.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	1636131.0	1637873.0	1000000.0	-	dot	name=yloA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	1640661.0	1640719.0	1000000.0	+	dot	name=S571; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=15.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1655558.0	1655863.0	1000000.0	-	.	name=rpmB_S575; yhaM_LB_105s; start_dist=17.0; stop_dist=41.0
+NC_000964.3	RendSeq	CDS	1656035.0	1656426.0	1000000.0	+	dot	name=yloU; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-29.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1661931.0	1662533.0	1000000.0	+	dot	name=ylpC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-36.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1675944.0	1676436.0	1000000.0	+	.	name=rna112_rplS; yhaM_LB_105s; start_dist=-37.0; stop_dist=47.0
+NC_000964.3	RendSeq	CDS	1680388.0	1681588.0	1000000.0	+	dot	name=sucC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-43.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1717821.0	1717932.0	1000000.0	+	dot	name=S586; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=13.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1718297.0	1718673.0	1000000.0	+	dot	name=rpsB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=364.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	1725532.0	1727024.0	1000000.0	+	dot	name=proS; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=202.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	1731599.0	1731775.0	1000000.0	+	dot	name=S593; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=17.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1736451.0	1736845.0	1000000.0	+	dot	name=rbfA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=41.0
+NC_000964.3	RendSeq	sRNA	1738854.0	1738940.0	1000000.0	+	dot	name=S594; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=30.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1749377.0	1751085.0	1000000.0	+	dot	name=rnjB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-41.0; stop_dist=0.0
+NC_000964.3	RendSeq	sequence_feature	1760815.0	1761303.0	1000000.0	+	dot	name=ymfK_ymfK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-36.0; stop_dist=0.0
+NC_000964.3	RendSeq	sequence_feature	1862992.0	1863166.0	1000000.0	+	dot	name=ymzE_ymzE; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	CDS	1871089.0	1872095.0	1000000.0	+	dot	name=nrdF; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=17.0
+NC_000964.3	RendSeq	CDS	1874203.0	1875200.0	1000000.0	+	dot	name=spoVK; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=29.0
+NC_000964.3	RendSeq	CDS	1875271.0	1876566.0	1000000.0	+	dot	name=ynbA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-33.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	1881410.0	1881535.0	1000000.0	+	dot	name=S627; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=4.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	1884162.0	1884237.0	1000000.0	+	dot	name=S628; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-7.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	1891565.0	1891727.0	1000000.0	-	dot	name=S633; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=16.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	1903330.0	1903490.0	1000000.0	+	dot	name=S645; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1904393.0	1904768.0	1000000.0	-	dot	name=ynzK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-19.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	1914754.0	1914995.0	1000000.0	+	dot	name=yndK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=124.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	1917504.0	1917610.0	1000000.0	+	dot	name=S659; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=72.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	1917577.0	1918256.0	1000000.0	-	dot	name=lexA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=62.0
+NC_000964.3	RendSeq	CDS	1919834.0	1921864.0	1000000.0	+	dot	name=tkt; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1924447.0	1924962.0	1000000.0	+	dot	name=yneJ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1932653.0	1933078.0	1000000.0	+	dot	name=yneT; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-18.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	1935448.0	1937906.0	1000000.0	+	dot	name=parC; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=38.0
+NC_000964.3	RendSeq	CDS	1938925.0	1940371.0	1000000.0	+	dot	name=alsT; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=49.0
+NC_000964.3	RendSeq	CDS	2002603.0	2003182.0	1000000.0	+	dot	name=iseA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-34.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2003401.0	2003990.0	1000000.0	-	dot	name=yoeC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-44.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2006497.0	2007398.0	1000000.0	-	dot	name=ftsR; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=44.0
+NC_000964.3	RendSeq	transcript	2025160.0	2025252.0	1000000.0	-	dot	name=rna114; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-1.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2027486.0	2027802.0	1000000.0	+	dot	name=yoaF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-23.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2029379.0	2031197.0	1000000.0	-	.	name=yoaH_S694; yhaM_LB_105s; start_dist=5.0; stop_dist=50.0
+NC_000964.3	RendSeq	CDS	2048483.0	2049453.0	1000000.0	+	dot	name=penP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-50.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	2055241.0	2055337.0	1000000.0	-	dot	name=S710; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=21.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2055868.0	2056148.0	1000000.0	-	dot	name=yozV; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-41.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2069955.0	2070127.0	1000000.0	-	.	name=S716_S718_S719; yhaM_LB_105s; start_dist=-9.0; stop_dist=29.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2070244.0	2071114.0	1000000.0	-	dot	name=yobJ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2074222.0	2074605.0	1000000.0	-	dot	name=S722; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=12.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2079095.0	2079196.0	1000000.0	+	dot	name=S728; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=9.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2085268.0	2085980.0	1000000.0	+	dot	name=yocA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-35.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2086070.0	2086636.0	1000000.0	-	dot	name=yozB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-30.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2092848.0	2093803.0	1000000.0	-	.	name=yocH; yhaM_LB_105s; start_dist=-41.0; stop_dist=51.0
+NC_000964.3	RendSeq	sRNA	2093839.0	2094009.0	1000000.0	-	dot	name=S734; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-23.0; sRNA_type=independent
+NC_000964.3	RendSeq	transcript	2095927.0	2096111.0	1000000.0	-	dot	name=rna115; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=2.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2100460.0	2100579.0	1000000.0	+	dot	name=S744; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=13.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2107463.0	2107474.0	1000000.0	-	dot	name=S746; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-1147.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2127744.0	2127812.0	1000000.0	+	dot	name=S754; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=4.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2131902.0	2133319.0	1000000.0	-	dot	name=ctpA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-17.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2134526.0	2136248.0	1000000.0	-	.	name=yodJ_S755_deoD_S756; yhaM_LB_105s; start_dist=13.0; stop_dist=40.0
+NC_000964.3	RendSeq	sRNA	2190677.0	2190746.0	1000000.0	+	.	name=S773; yhaM_LB_105s; start_dist=14.0; stop_dist=-879.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2195151.0	2195566.0	1000000.0	+	.	name=yoqO; yhaM_LB_105s; start_dist=-22.0; stop_dist=19.0
+NC_000964.3	RendSeq	CDS	2204148.0	2205169.0	1000000.0	-	dot	name=yopR; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=44.0
+NC_000964.3	RendSeq	CDS	2205193.0	2206603.0	1000000.0	-	dot	name=yopQ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2214865.0	2214953.0	1000000.0	-	dot	name=S791; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=8.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2269946.0	2270305.0	1000000.0	-	dot	name=sunI; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=42.0
+NC_000964.3	RendSeq	sRNA	2273794.0	2274302.0	1000000.0	+	dot	name=S811; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-7.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2278602.0	2279711.0	1000000.0	-	dot	name=yokG; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-36.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2287529.0	2288092.0	1000000.0	-	dot	name=msrA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-30.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2288102.0	2288193.0	1000000.0	+	dot	name=S817; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=19.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2294261.0	2295281.0	1000000.0	+	dot	name=yplP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2300221.0	2300685.0	1000000.0	-	dot	name=yphP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-30.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2306514.0	2307704.0	1000000.0	+	dot	name=ugtP; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=42.0
+NC_000964.3	RendSeq	sRNA	2307820.0	2307904.0	1000000.0	+	dot	name=S828; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=6.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2308157.0	2308404.0	1000000.0	-	dot	name=degR; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-65.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2309699.0	2310419.0	1000000.0	+	dot	name=ypdP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-31.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2320355.0	2321888.0	1000000.0	-	dot	name=ypwA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	transcript	2331320.0	2331721.0	1000000.0	-	.	name=rnpB; yhaM_LB_105s; start_dist=-6.0; stop_dist=10.0
+NC_000964.3	RendSeq	CDS	2338555.0	2338829.0	1000000.0	+	.	name=yppF; yhaM_LB_105s; start_dist=-27.0; stop_dist=59.0
+NC_000964.3	RendSeq	CDS	2341444.0	2344227.0	1000000.0	+	dot	name=ponA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=39.0
+NC_000964.3	RendSeq	sRNA	2347517.0	2347582.0	1000000.0	-	dot	name=S847; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-4.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2348864.0	2349299.0	1000000.0	-	dot	name=ypmB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=50.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	2362965.0	2363071.0	1000000.0	-	dot	name=S854; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2379100.0	2380309.0	1000000.0	-	dot	name=aroF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-37.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2391517.0	2391629.0	1000000.0	-	dot	name=S864; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=12.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2402067.0	2403397.0	1000000.0	-	dot	name=gudB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-47.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2404091.0	2404167.0	1000000.0	-	dot	name=S870; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=5.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2411051.0	2412663.0	1000000.0	+	dot	name=serA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-35.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2425831.0	2426634.0	1000000.0	-	dot	name=spcB_scpA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-48.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2426847.0	2427391.0	1000000.0	+	dot	name=ypuF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-20.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2427405.0	2427844.0	1000000.0	-	dot	name=ypzK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-65.0; stop_dist=-0.0
+NC_000964.3	RendSeq	transcript	2431473.0	2431638.0	1000000.0	-	dot	name=rna118; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-21.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2431700.0	2432114.0	1000000.0	-	.	name=ypuD; yhaM_LB_105s; start_dist=-33.0; stop_dist=37.0
+NC_000964.3	RendSeq	sRNA	2435792.0	2435863.0	1000000.0	-	dot	name=S886; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=15.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2446357.0	2447233.0	1000000.0	-	dot	name=pupG; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=61.0
+NC_000964.3	RendSeq	CDS	2449794.0	2450290.0	1000000.0	-	dot	name=fur; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=47.0
+NC_000964.3	RendSeq	sRNA	2456809.0	2456874.0	1000000.0	-	dot	name=S893; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=14.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2465941.0	2466172.0	1000000.0	+	dot	name=yqzH; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2466691.0	2467953.0	1000000.0	+	dot	name=yqjV; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-30.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2475816.0	2476859.0	1000000.0	+	dot	name=yqjM; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2478006.0	2478955.0	1000000.0	-	dot	name=yqjK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-26.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2480707.0	2482159.0	1000000.0	-	dot	name=yqjI; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=43.0
+NC_000964.3	RendSeq	CDS	2483572.0	2483873.0	1000000.0	+	dot	name=yqzJ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-14.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	2488818.0	2488968.0	1000000.0	+	dot	name=S907; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=3.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2493635.0	2494555.0	1000000.0	+	dot	name=bmrU; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2500104.0	2501287.0	1000000.0	-	dot	name=lpdV; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=241.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	2517562.0	2517755.0	1000000.0	-	dot	name=S912; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=23.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2517757.0	2517864.0	1000000.0	-	dot	name=S913; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=21.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2517943.0	2518826.0	1000000.0	-	dot	name=spo0A; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=80.0
+NC_000964.3	RendSeq	CDS	2538069.0	2539348.0	1000000.0	-	.	name=efp_yqhT; yhaM_LB_105s; start_dist=410.0; stop_dist=46.0
+NC_000964.3	RendSeq	CDS	2538069.0	2540252.0	1000000.0	-	.	name=efp_yqhT_yqhS; yhaM_LB_105s; start_dist=-51.0; stop_dist=46.0
+NC_000964.3	RendSeq	CDS	2543968.0	2544830.0	1000000.0	-	dot	name=yqhM; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-26.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2544932.0	2544994.0	1000000.0	+	dot	name=S921; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=17.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2549607.0	2549665.0	1000000.0	-	dot	name=S922; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=12.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2564612.0	2564883.0	1000000.0	+	dot	name=yqgY; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-26.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2564886.0	2565582.0	1000000.0	-	.	name=yqgX; yhaM_LB_105s; start_dist=-24.0; stop_dist=37.0
+NC_000964.3	RendSeq	sRNA	2574343.0	2574407.0	1000000.0	-	dot	name=S934; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-19.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2581737.0	2583921.0	1000000.0	-	dot	name=pbpA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=34.0
+NC_000964.3	RendSeq	CDS	2585434.0	2586098.0	1000000.0	-	dot	name=sodA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-56.0; stop_dist=-0.0
+NC_000964.3	RendSeq	transcript	2608695.0	2608906.0	1000000.0	-	dot	name=rna122; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=37.0
+NC_000964.3	RendSeq	CDS	2620371.0	2620607.0	1000000.0	-	dot	name=rpsU; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-63.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2625913.0	2625941.0	1000000.0	-	dot	name=S959; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=149.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2628535.0	2628555.0	1000000.0	-	dot	name=S960; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=50.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2630910.0	2632785.0	1000000.0	-	dot	name=lepA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-37.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2635815.0	2636119.0	1000000.0	+	dot	name=rpsT; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=38.0
+NC_000964.3	RendSeq	CDS	2637352.0	2637503.0	1000000.0	+	dot	name=yqzM; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-17.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2639877.0	2640476.0	1000000.0	-	dot	name=comEB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-30.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2647113.0	2647663.0	1000000.0	-	dot	name=S965; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=11.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2647372.0	2647455.0	1000000.0	+	dot	name=S966; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=17.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2657317.0	2657647.0	1000000.0	-	dot	name=arsR; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-13.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2660257.0	2660340.0	1000000.0	+	dot	name=rapE_phrE; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-73.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	2661060.0	2662697.0	1000000.0	+	dot	name=yqcG; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-42.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	2678344.0	2678564.0	1000000.0	-	.	name=S976; yhaM_LB_105s; start_dist=13.0; stop_dist=18.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2678878.0	2679075.0	1000000.0	-	.	name=S977; yhaM_LB_105s; start_dist=11.0; stop_dist=-299.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2691620.0	2692571.0	1000000.0	+	dot	name=yqaP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-22.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2705398.0	2706642.0	1000000.0	+	dot	name=yrkO; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=27.0
+NC_000964.3	RendSeq	sRNA	2720264.0	2720334.0	1000000.0	-	dot	name=S998; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=9.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2736537.0	2736618.0	1000000.0	-	dot	name=S1005; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=21.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2749640.0	2750475.0	1000000.0	+	dot	name=yraK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-20.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2757468.0	2758001.0	1000000.0	+	dot	name=yraA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2768042.0	2768732.0	1000000.0	-	dot	name=yrhP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-58.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2768791.0	2769654.0	1000000.0	+	dot	name=yrhO; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-36.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	2773780.0	2773889.0	1000000.0	+	dot	name=S1022; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=16.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2780331.0	2780478.0	1000000.0	-	dot	name=S1029; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=6.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2781016.0	2781208.0	1000000.0	+	dot	name=S1031; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=14.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	transcript	2800890.0	2801108.0	1000000.0	-	dot	name=rna123; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-11.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2812134.0	2812218.0	1000000.0	-	dot	name=S1043; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=13.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2813604.0	2814407.0	1000000.0	-	dot	name=yrvM; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=39.0
+NC_000964.3	RendSeq	transcript	2817899.0	2818160.0	1000000.0	-	dot	name=rna125; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-29.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2818177.0	2818445.0	1000000.0	+	dot	name=S1044; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=16.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2822852.0	2822861.0	1000000.0	-	dot	name=S1045; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-81.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	2829449.0	2829514.0	1000000.0	-	dot	name=S1047; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=13.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2841579.0	2843065.0	1000000.0	+	dot	name=yrbD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-32.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2843106.0	2843853.0	1000000.0	-	dot	name=yrbC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=-0.0
+NC_000964.3	RendSeq	transcript	2855840.0	2855930.0	1000000.0	-	dot	name=rna126; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-15.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2857718.0	2861801.0	1000000.0	-	.	name=minD_minC_mreD_mreC_mreB; yhaM_LB_105s; start_dist=-53.0; stop_dist=58.0
+NC_000964.3	RendSeq	CDS	2863294.0	2864313.0	1000000.0	-	dot	name=spoIIB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-21.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2869343.0	2869618.0	1000000.0	-	.	name=S1061_rna127; yhaM_LB_105s; start_dist=-30.0; stop_dist=23.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2872837.0	2874172.0	1000000.0	-	dot	name=hemL; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=43.0
+NC_000964.3	RendSeq	putative_sRNA	2877627.0	2877758.0	1000000.0	-	dot	name=hemX; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-699.0; sRNA_type=intragenic
+NC_000964.3	RendSeq	sRNA	2886255.0	2886976.0	1000000.0	-	.	name=S1068_tig; yhaM_LB_105s; start_dist=613.0; stop_dist=60.0; sRNA_type=3'UTR
+NC_000964.3	RendSeq	CDS	2886255.0	2887768.0	1000000.0	-	.	name=S1068_tig_S1069; yhaM_LB_105s; start_dist=11.0; stop_dist=60.0
+NC_000964.3	RendSeq	CDS	2888903.0	2889539.0	1000000.0	-	dot	name=leuD; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=37.0
+NC_000964.3	RendSeq	tRNA	2899816.0	2899870.0	1000000.0	-	dot	name=trnSL-Arg2; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=19.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2905532.0	2908828.0	1000000.0	-	.	name=sdhB_sdhA_sdhC_S1076; yhaM_LB_105s; start_dist=5.0; stop_dist=39.0
+NC_000964.3	RendSeq	CDS	2909010.0	2909476.0	1000000.0	+	dot	name=yslB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-20.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	2910872.0	2911077.0	1000000.0	-	dot	name=rna130; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-26.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	2913024.0	2913365.0	1000000.0	-	dot	name=trxA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	2913380.0	2913583.0	1000000.0	-	dot	name=S1078; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=6.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2926971.0	2929422.0	1000000.0	-	dot	name=pheT; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=37.0
+NC_000964.3	RendSeq	CDS	2951459.0	2951882.0	1000000.0	+	dot	name=ysdB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-31.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2951859.0	2953607.0	1000000.0	-	.	name=ysdA_rplT_rpmI_infC_rna131_S1089; yhaM_LB_105s; start_dist=16.0; stop_dist=39.0
+NC_000964.3	RendSeq	CDS	2958387.0	2959216.0	1000000.0	+	dot	name=ysaA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-47.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2959214.0	2959286.0	1000000.0	-	.	name=thrS; yhaM_LB_105s; start_dist=1902.0; stop_dist=43.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	2966339.0	2966931.0	1000000.0	-	.	name=S1092_speD_S1093; yhaM_LB_105s; start_dist=17.0; stop_dist=-50.0
+NC_000964.3	RendSeq	sRNA	2978692.0	2978702.0	1000000.0	-	dot	name=S1098; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-90.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	2991269.0	2992492.0	1000000.0	-	dot	name=dnaE; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=2124.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	2995665.0	2995890.0	1000000.0	+	dot	name=ytzJ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-34.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	2997301.0	2998648.0	1000000.0	-	dot	name=ytoI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3009873.0	3010598.0	1000000.0	-	dot	name=ytkL; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=42.0
+NC_000964.3	RendSeq	sRNA	3016299.0	3016390.0	1000000.0	-	dot	name=S1119; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=13.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3016588.0	3018224.0	1000000.0	-	.	name=ytxK_tpx; yhaM_LB_105s; start_dist=-25.0; stop_dist=58.0
+NC_000964.3	RendSeq	CDS	3017655.0	3018224.0	1000000.0	-	.	name=tpx; yhaM_LB_105s; start_dist=-25.0; stop_dist=41.0
+NC_000964.3	RendSeq	CDS	3021233.0	3022072.0	1000000.0	+	dot	name=ppnK; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=36.0
+NC_000964.3	RendSeq	sRNA	3031418.0	3031513.0	1000000.0	-	dot	name=S1125; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=10.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3035809.0	3036332.0	1000000.0	+	dot	name=rpsD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=79.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	3036563.0	3037871.0	1000000.0	-	dot	name=tyrS; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=40.0
+NC_000964.3	RendSeq	CDS	3045445.0	3046565.0	1000000.0	-	dot	name=aroA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-44.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3046584.0	3046674.0	1000000.0	-	dot	name=S1141; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=10.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3047593.0	3048040.0	1000000.0	-	dot	name=ytxG; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3054512.0	3054637.0	1000000.0	-	dot	name=S1143; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=13.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3054698.0	3055192.0	1000000.0	+	dot	name=ytoQ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-48.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3055247.0	3056344.0	1000000.0	-	dot	name=ytoP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3056454.0	3056796.0	1000000.0	+	dot	name=ytzB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3066451.0	3067424.0	1000000.0	+	dot	name=ytkP; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=38.0
+NC_000964.3	RendSeq	CDS	3102201.0	3102539.0	1000000.0	-	dot	name=ytwF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=-0.0
+NC_000964.3	RendSeq	transcript	3105153.0	3105381.0	1000000.0	-	dot	name=rna133; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-14.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3119968.0	3121564.0	1000000.0	+	.	name=ytqA_ytqB; yhaM_LB_105s; start_dist=-31.0; stop_dist=16.0
+NC_000964.3	RendSeq	CDS	3124219.0	3125641.0	1000000.0	-	dot	name=ytnA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=31.0
+NC_000964.3	RendSeq	transcript	3129195.0	3129343.0	1000000.0	-	dot	name=rna134; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-10.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3129491.0	3131113.0	1000000.0	+	dot	name=pckA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-39.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	3132220.0	3132301.0	1000000.0	-	dot	name=S1168; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=9.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3136186.0	3136694.0	1000000.0	-	.	name=S1171_dps; yhaM_LB_105s; start_dist=-19.0; stop_dist=52.0
+NC_000964.3	RendSeq	CDS	3137451.0	3137997.0	1000000.0	-	.	name=luxS_S1173; yhaM_LB_105s; start_dist=-29.0; stop_dist=44.0
+NC_000964.3	RendSeq	CDS	3138097.0	3138336.0	1000000.0	+	dot	name=ytjA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=12.0
+NC_000964.3	RendSeq	CDS	3149751.0	3149835.0	1000000.0	-	dot	name=ytxM; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=740.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	tRNA	3171843.0	3172015.0	1000000.0	-	.	name=trnB-Glu_trnB-Ser2; yhaM_LB_105s; start_dist=51.0; stop_dist=36.0
+NC_000964.3	RendSeq	tRNA	3172247.0	3172320.0	1000000.0	-	dot	name=trnB-Gly2; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-0.0
+NC_000964.3	RendSeq	tRNA	3172331.0	3172406.0	1000000.0	-	dot	name=trnB-His; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-0.0
+NC_000964.3	RendSeq	tRNA	3172691.0	3172786.0	1000000.0	-	.	name=trnB-Ser1; yhaM_LB_105s; start_dist=-0.0; stop_dist=3.0
+NC_000964.3	RendSeq	tRNA	3172691.0	3172950.0	1000000.0	-	.	name=trnB-Ser1_trnB-Met3_trnB-Met1; yhaM_LB_105s; start_dist=-2.0; stop_dist=3.0
+NC_000964.3	RendSeq	tRNA	3173404.0	3173819.0	1000000.0	-	.	name=trnB-Leu1_trnB-Lys_trnB-Thr_trnB-Val_rrnB-5S; yhaM_LB_105s; start_dist=-22.0; stop_dist=-0.0
+NC_000964.3	RendSeq	tRNA	3173404.0	3173932.0	1000000.0	-	.	name=trnB-Leu1_trnB-Lys_trnB-Thr_trnB-Val_rrnB-5S; yhaM_LB_105s; start_dist=3.0; stop_dist=-0.0
+NC_000964.3	RendSeq	rRNA	3173820.0	3173932.0	1000000.0	-	.	name=rrnB-5S; yhaM_LB_105s; start_dist=3.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	3173820.0	3174413.0	1000000.0	-	.	name=rrnB-5S_rrnB-23S; yhaM_LB_105s; start_dist=-478.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	3173820.0	3177152.0	1000000.0	-	.	name=rrnB-5S_rrnB-23S_rrnB-16S; yhaM_LB_105s; start_dist=-234.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	3173820.0	3177661.0	1000000.0	-	.	name=rrnB-5S_rrnB-23S_rrnB-16S; yhaM_LB_105s; start_dist=-743.0; stop_dist=-2.0
+NC_000964.3	RendSeq	rRNA	3177814.0	3177839.0	1000000.0	-	.	name=rrnB-16S; yhaM_LB_105s; start_dist=801.0; stop_dist=-728.0
+NC_000964.3	RendSeq	rRNA	3177814.0	3178079.0	1000000.0	-	.	name=rrnB-16S; yhaM_LB_105s; start_dist=561.0; stop_dist=-728.0
+NC_000964.3	RendSeq	rRNA	3177814.0	3178908.0	1000000.0	-	.	name=rrnB-16S_S1181; yhaM_LB_105s; start_dist=24.0; stop_dist=-728.0
+NC_000964.3	RendSeq	transcript	3179093.0	3179206.0	1000000.0	+	dot	name=rna159; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-12.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3185092.0	3186598.0	1000000.0	-	dot	name=gbsA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-34.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3186712.0	3187305.0	1000000.0	+	dot	name=yuaC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-51.0; stop_dist=0.0
+NC_000964.3	RendSeq	tRNA	3194455.0	3194540.0	1000000.0	-	dot	name=trnSL-Ala1; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-13.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3196881.0	3197892.0	1000000.0	+	dot	name=yulF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3204067.0	3206079.0	1000000.0	-	dot	name=tlpB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3210445.0	3212457.0	1000000.0	-	dot	name=mcpB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3213854.0	3214299.0	1000000.0	-	dot	name=yugU; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-47.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3223431.0	3224634.0	1000000.0	-	dot	name=yugJ; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=40.0
+NC_000964.3	RendSeq	sRNA	3224756.0	3224810.0	1000000.0	+	dot	name=S1199; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=4.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	3225710.0	3226671.0	1000000.0	+	dot	name=S1202; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=23.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3228431.0	3228719.0	1000000.0	-	dot	name=yugE; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3228717.0	3228777.0	1000000.0	+	dot	name=S1204; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=5.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	3257233.0	3257306.0	1000000.0	-	dot	name=S1216; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=13.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3258037.0	3259300.0	1000000.0	-	dot	name=pdeH; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-34.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3260891.0	3261466.0	1000000.0	-	dot	name=pncA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3262611.0	3263770.0	1000000.0	-	dot	name=yueF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-50.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3276089.0	3276434.0	1000000.0	-	dot	name=yukE; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=52.0
+NC_000964.3	RendSeq	CDS	3278300.0	3279461.0	1000000.0	+	dot	name=ald; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3294906.0	3296270.0	1000000.0	-	dot	name=yuiF; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=36.0
+NC_000964.3	RendSeq	CDS	3299344.0	3299685.0	1000000.0	-	dot	name=yuiB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-21.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3303042.0	3304074.0	1000000.0	+	dot	name=guaC; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=52.0
+NC_000964.3	RendSeq	CDS	3308368.0	3308621.0	1000000.0	-	dot	name=yuzB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-17.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3310461.0	3310721.0	1000000.0	+	dot	name=yutI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=75.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	3355045.0	3355323.0	1000000.0	-	dot	name=yuzN; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-0.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3359995.0	3360883.0	1000000.0	-	dot	name=sufC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-103.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3364344.0	3364534.0	1000000.0	-	.	name=S1261_rna162; yhaM_LB_105s; start_dist=-31.0; stop_dist=-52.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3366123.0	3366536.0	1000000.0	-	dot	name=yusH; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-30.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3398550.0	3398954.0	1000000.0	-	dot	name=liaI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3400488.0	3401118.0	1000000.0	-	dot	name=yvqK; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=49.0
+NC_000964.3	RendSeq	CDS	3418425.0	3419421.0	1000000.0	+	dot	name=fhuD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-49.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3421447.0	3421605.0	1000000.0	-	dot	name=sspJ; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=18.0
+NC_000964.3	RendSeq	CDS	3421733.0	3422254.0	1000000.0	+	dot	name=yvsG; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-39.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3424235.0	3425175.0	1000000.0	-	dot	name=yvgK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-14.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3426749.0	3427611.0	1000000.0	-	dot	name=yvgN; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-32.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3430344.0	3430473.0	1000000.0	-	dot	name=S1281; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=22.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	3440953.0	3441052.0	1000000.0	-	dot	name=S1282; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=2.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3445405.0	3446077.0	1000000.0	-	dot	name=yvaB; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=37.0
+NC_000964.3	RendSeq	tmRNA	3450710.0	3451071.0	1000000.0	-	dot	name=ssrA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-0.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3451133.0	3451200.0	1000000.0	-	dot	name=S1286; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-3.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3455048.0	3455354.0	1000000.0	-	.	name=secG; yhaM_LB_105s; start_dist=-31.0; stop_dist=45.0
+NC_000964.3	RendSeq	CDS	3456642.0	3457074.0	1000000.0	+	dot	name=rghRA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3473330.0	3474070.0	1000000.0	+	dot	name=yvbI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-42.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3474106.0	3475964.0	1000000.0	-	dot	name=yvbJ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-41.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3483775.0	3483868.0	1000000.0	-	dot	name=S1302; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=18.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3488924.0	3489869.0	1000000.0	+	dot	name=cyeB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3491655.0	3492714.0	1000000.0	-	dot	name=yvbX; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3495702.0	3495768.0	1000000.0	-	dot	name=S1306; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-0.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3499501.0	3500350.0	1000000.0	+	dot	name=rsbQ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-40.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	3510491.0	3510588.0	1000000.0	-	dot	name=S1308; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=8.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3513645.0	3514142.0	1000000.0	+	.	name=S1311_yvfG; yhaM_LB_105s; start_dist=17.0; stop_dist=37.0
+NC_000964.3	RendSeq	CDS	3533196.0	3533311.0	1000000.0	-	dot	name=yveF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-23.0; stop_dist=-0.0
+NC_000964.3	RendSeq	tRNA	3545831.0	3545964.0	1000000.0	-	dot	name=trnQ-Arg; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=58.0
+NC_000964.3	RendSeq	CDS	3546201.0	3546827.0	1000000.0	+	dot	name=clpP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-33.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3558940.0	3559562.0	1000000.0	-	dot	name=yvdD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-47.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3562542.0	3563543.0	1000000.0	+	dot	name=yvcT; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-24.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3572413.0	3572911.0	1000000.0	-	dot	name=yvcI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-22.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3574158.0	3574235.0	1000000.0	-	dot	name=S1324; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=10.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	3574320.0	3574338.0	1000000.0	-	dot	name=S1325; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-73.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3594242.0	3595218.0	1000000.0	-	dot	name=hprK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-44.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3595328.0	3596546.0	1000000.0	+	dot	name=nagA_nagBA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3615116.0	3615375.0	1000000.0	-	dot	name=csbA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-29.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3620300.0	3621539.0	1000000.0	-	dot	name=minJ; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=46.0
+NC_000964.3	RendSeq	CDS	3623899.0	3624828.0	1000000.0	-	dot	name=ftsX_ftsE; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=39.0
+NC_000964.3	RendSeq	CDS	3625741.0	3626108.0	1000000.0	-	dot	name=cccB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-29.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3630836.0	3630908.0	1000000.0	-	dot	name=S1349; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=8.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3634425.0	3634779.0	1000000.0	-	dot	name=yvyC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3641811.0	3642135.0	1000000.0	-	dot	name=comFC_comFB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3643664.0	3644537.0	1000000.0	-	dot	name=yviA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3646620.0	3648619.0	1000000.0	+	.	name=S1357_yvyE_yvhJ; yhaM_LB_105s; start_dist=7.0; stop_dist=38.0
+NC_000964.3	RendSeq	CDS	3648622.0	3649730.0	1000000.0	-	dot	name=tagO; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=32.0
+NC_000964.3	RendSeq	CDS	3659078.0	3660609.0	1000000.0	-	dot	name=lytC; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=41.0
+NC_000964.3	RendSeq	CDS	3662789.0	3663110.0	1000000.0	-	dot	name=lytA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-13.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3663281.0	3664243.0	1000000.0	+	dot	name=lytR; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=42.0
+NC_000964.3	RendSeq	CDS	3664241.0	3665422.0	1000000.0	-	dot	name=mnaA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-39.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3666508.0	3666548.0	1000000.0	+	dot	name=S1363; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=-1051.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	3669968.0	3672791.0	1000000.0	+	dot	name=S1367; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=9.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sequence_feature	3672929.0	3673566.0	1000000.0	+	dot	name=yvzE; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=41.0
+NC_000964.3	RendSeq	sRNA	3680971.0	3681089.0	1000000.0	-	dot	name=S1374; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=16.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3694239.0	3695242.0	1000000.0	+	dot	name=ywtF; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=35.0
+NC_000964.3	RendSeq	CDS	3701379.0	3702391.0	1000000.0	+	dot	name=rbsR; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-32.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3711456.0	3712406.0	1000000.0	+	dot	name=alsR; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-42.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3733505.0	3733590.0	1000000.0	-	dot	name=ywzD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=58.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	3733810.0	3735462.0	1000000.0	+	dot	name=ywqB_ywqA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-42.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3743688.0	3744157.0	1000000.0	-	dot	name=fabZ; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=44.0
+NC_000964.3	RendSeq	CDS	3758524.0	3759175.0	1000000.0	+	.	name=bcrC; yhaM_LB_105s; start_dist=-23.0; stop_dist=47.0
+NC_000964.3	RendSeq	CDS	3759169.0	3759627.0	1000000.0	-	dot	name=ywnJ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-36.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3759702.0	3760568.0	1000000.0	-	dot	name=spoIIQ; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-15.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3760227.0	3760556.0	1000000.0	+	dot	name=S1406; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=17.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3761987.0	3762466.0	1000000.0	-	dot	name=ywnF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-45.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3773366.0	3774182.0	1000000.0	-	dot	name=fdhD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3777903.0	3777913.0	1000000.0	-	dot	name=S1419; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-107.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3780545.0	3781035.0	1000000.0	+	dot	name=ywmA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-17.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	3786554.0	3786619.0	1000000.0	-	dot	name=S1425; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-96.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3791805.0	3792277.0	1000000.0	-	dot	name=ywlE; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-20.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3797085.0	3798185.0	1000000.0	-	dot	name=prfA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-30.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3803282.0	3803357.0	1000000.0	-	dot	name=S1435; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=2.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3808512.0	3809326.0	1000000.0	-	dot	name=fbaA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=43.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	sRNA	3809370.0	3809481.0	1000000.0	-	dot	name=S1439; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=15.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3810648.0	3813147.0	1000000.0	-	.	name=pyrG_S1441_rpoE_S1442; yhaM_LB_105s; start_dist=19.0; stop_dist=45.0
+NC_000964.3	RendSeq	CDS	3818875.0	3819221.0	1000000.0	+	.	name=ywjC_S1446; yhaM_LB_105s; start_dist=-31.0; stop_dist=43.0
+NC_000964.3	RendSeq	CDS	3831512.0	3832256.0	1000000.0	-	dot	name=fnr; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-28.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3835317.0	3835815.0	1000000.0	-	dot	name=argS_ywiB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-70.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3847043.0	3847146.0	1000000.0	+	dot	name=rapF_phrF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-87.0; stop_dist=0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	3853436.0	3853674.0	1000000.0	+	dot	name=ywhB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-50.0; stop_dist=0.0
+NC_000964.3	RendSeq	transcript	3856228.0	3856447.0	1000000.0	-	dot	name=rna167; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=-2.0
+NC_000964.3	RendSeq	CDS	3859535.0	3860862.0	1000000.0	-	dot	name=ywfO; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-26.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3863415.0	3864295.0	1000000.0	-	dot	name=ywfL; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-35.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3866565.0	3867360.0	1000000.0	+	dot	name=ywfI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-46.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3893986.0	3894401.0	1000000.0	-	dot	name=ywdK; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=44.0
+NC_000964.3	RendSeq	CDS	3900481.0	3900844.0	1000000.0	-	dot	name=ywdD_ywzG; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3905066.0	3905174.0	1000000.0	-	dot	name=S1465; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-44.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3914278.0	3914689.0	1000000.0	-	dot	name=qoxD; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=37.0
+NC_000964.3	RendSeq	sRNA	3923140.0	3923318.0	1000000.0	+	dot	name=S1474; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=9.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3930657.0	3931375.0	1000000.0	-	dot	name=thiE_thiM; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=50.0
+NC_000964.3	RendSeq	CDS	3932198.0	3932839.0	1000000.0	-	dot	name=ywbI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=264.0; stop_dist=-0.0; Type=Alternative start site
+NC_000964.3	RendSeq	CDS	3939869.0	3941852.0	1000000.0	+	dot	name=epr; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=46.0
+NC_000964.3	RendSeq	CDS	3944560.0	3945445.0	1000000.0	-	dot	name=gspA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-25.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	3951943.0	3952042.0	1000000.0	+	dot	name=S1479; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=5.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3952073.0	3952257.0	1000000.0	+	dot	name=ywzH; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-35.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3961566.0	3961921.0	1000000.0	-	dot	name=licB; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-47.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3971022.0	3972433.0	1000000.0	+	dot	name=yxlA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-38.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3985351.0	3986273.0	1000000.0	-	dot	name=yxkF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-29.0; stop_dist=-0.0
+NC_000964.3	RendSeq	transcript	3988802.0	3988970.0	1000000.0	-	.	name=rna170; yhaM_LB_105s; start_dist=-28.0; stop_dist=38.0
+NC_000964.3	RendSeq	sRNA	3989094.0	3989183.0	1000000.0	+	dot	name=S1492; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-4.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	3989196.0	3989873.0	1000000.0	+	dot	name=yxkC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-36.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3989948.0	3990994.0	1000000.0	-	dot	name=galE; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	3991695.0	3992593.0	1000000.0	+	dot	name=yxjO; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-23.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	3997194.0	3997709.0	1000000.0	+	dot	name=yxjI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-27.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	4005521.0	4006986.0	1000000.0	+	.	name=rna173_S1503_yxjA; yhaM_LB_105s; start_dist=-2.0; stop_dist=41.0
+NC_000964.3	RendSeq	CDS	4011798.0	4012570.0	1000000.0	-	dot	name=bglS; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=44.0
+NC_000964.3	RendSeq	CDS	4015947.0	4017426.0	1000000.0	-	dot	name=deaD; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=40.0
+NC_000964.3	RendSeq	sRNA	4035641.0	4035816.0	1000000.0	-	dot	name=S1513; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=17.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	4041460.0	4041938.0	1000000.0	+	dot	name=hutP; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-23.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	4048966.0	4050310.0	1000000.0	-	dot	name=pdp; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=43.0
+NC_000964.3	RendSeq	CDS	4062543.0	4063586.0	1000000.0	-	dot	name=yxeJ_yxeI; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-57.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	4063648.0	4064528.0	1000000.0	-	.	name=yxeH; yhaM_LB_105s; start_dist=-32.0; stop_dist=36.0
+NC_000964.3	RendSeq	CDS	4066566.0	4067019.0	1000000.0	-	.	name=yxeC; yhaM_LB_105s; start_dist=-14.0; stop_dist=41.0
+NC_000964.3	RendSeq	CDS	4068153.0	4068536.0	1000000.0	-	dot	name=yxeA; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=36.0
+NC_000964.3	RendSeq	CDS	4084770.0	4085554.0	1000000.0	+	dot	name=iolR; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-29.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	4087945.0	4089387.0	1000000.0	+	dot	name=csbC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-57.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	4097006.0	4097415.0	1000000.0	+	dot	name=S1534; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=15.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	4107352.0	4107960.0	1000000.0	-	dot	name=yxaF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-33.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	4109185.0	4109659.0	1000000.0	-	dot	name=yxaD; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-43.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	4113381.0	4118532.0	1000000.0	+	.	name=gntR_gntK_gntP_gntZ; yhaM_LB_105s; start_dist=-36.0; stop_dist=46.0
+NC_000964.3	RendSeq	CDS	4116547.0	4118532.0	1000000.0	+	.	name=gntP_gntZ; yhaM_LB_105s; start_dist=-533.0; stop_dist=46.0
+NC_000964.3	RendSeq	CDS	4121058.0	4123062.0	1000000.0	-	.	name=S1541_bglA_yyzE_S1542; yhaM_LB_105s; start_dist=-1.0; stop_dist=24.0
+NC_000964.3	RendSeq	CDS	4140218.0	4141357.0	1000000.0	+	dot	name=rapG; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-42.0; stop_dist=0.0
+NC_000964.3	RendSeq	sRNA	4154502.0	4154707.0	1000000.0	-	dot	name=S1553; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-13.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	4155210.0	4155293.0	1000000.0	-	dot	name=S1555; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=13.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	4155433.0	4156744.0	1000000.0	-	dot	name=purA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-19.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	4159559.0	4159717.0	1000000.0	+	dot	name=yycC; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-18.0; stop_dist=0.0
+NC_000964.3	RendSeq	CDS	4163159.0	4164125.0	1000000.0	-	.	name=rplI_yybT; yhaM_LB_105s; start_dist=-479.0; stop_dist=38.0
+NC_000964.3	RendSeq	sRNA	4164565.0	4165235.0	1000000.0	+	dot	name=S1559; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=4.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	4169613.0	4169936.0	1000000.0	-	dot	name=S1563; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=7.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	4176526.0	4176886.0	1000000.0	+	dot	name=S1567; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=0.0; stop_dist=46.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	4180378.0	4180476.0	1000000.0	-	dot	name=S1568; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=5.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	sRNA	4183959.0	4184016.0	1000000.0	+	dot	name=S1569; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=12.0; stop_dist=0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	4193264.0	4194196.0	1000000.0	-	dot	name=yyaK; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-33.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	4197780.0	4198593.0	1000000.0	-	dot	name=exoAA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-55.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	4199843.0	4200995.0	1000000.0	-	dot	name=yyaF; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-52.0; stop_dist=-0.0
+NC_000964.3	RendSeq	CDS	4206397.0	4207194.0	1000000.0	-	dot	name=parB_parA; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=-36.0; stop_dist=-0.0
+NC_000964.3	RendSeq	sRNA	4212890.0	4213014.0	1000000.0	-	dot	name=S1578; yhaM_LB_105s;Note=start_site_resolved_only; start_dist=6.0; stop_dist=-0.0; sRNA_type=independent
+NC_000964.3	RendSeq	CDS	4213157.0	4213826.0	1000000.0	-	dot	name=jag_spoIIIJ; yhaM_LB_105s;Note=stop_site_resolved_only; start_dist=-0.0; stop_dist=43.0
