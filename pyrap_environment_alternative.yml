@@ -1,0 +1,8 @@
+name: pyRAP
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - matplotlib-venn
+prefix: /Users/andreas/opt/anaconda3/envs/pyRAP
