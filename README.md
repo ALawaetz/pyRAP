@@ -76,7 +76,7 @@ The pyRAP package also includes a script named terminal_input.py which makes the
 
 $ python3 terminal_input.py
 
-If you want to experiment with different option parameters it is recommended that you use the --genome_start and --genome_end flags to analyse only a small region of your genome. Once you have optimised the parameters you can remove those flags to analyse the entire transcriptome which takes about 6 hours to finish. Alternatively, use default parameters and make genome-wide annotation files straight away.
+If you want to experiment with different option parameters it is recommended that you use the --genome_start and --genome_end flags to analyse only a small region of your genome. Once you have optimised the parameters you can remove those flags to analyse the entire transcriptome which takes about 6 hours to finish. Alternatively, use default parameters and make genome-wide annotation files straight away. To increase the speed of the analysis, pyRAP uses multiprocessing. The number of processors to be used is set with --processors flag.
 
 Annotation files can be viewed using various genome browsers. I recommend JBrowse which has a user-friendly desktop version that can be downloaded from https://jbrowse.org/jb2/download/
 To get the browser running upload your fasta genome file along with .fai file. An .fai file can be created using samtools faidx which can be installed using conda.
