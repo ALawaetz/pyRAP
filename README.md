@@ -3,11 +3,7 @@ Pipeline to annotate Rend-seq data genomewide
 
 The pyRAP pipeline take wig files as input and outputs annotation files in GFF or GTF format.
 
-The pipeline is written in Python3 and has the following dependencies:
-
-- python3
-- 
-- 
+The pipeline is written completely in Python3. Dependencies can be found in the file pyrap_environment.yml. For installation of dependencies, see below.
 
 All dependencies can be installed using conda. To install conda go to
 https://www.anaconda.com/products/distribution
@@ -67,6 +63,11 @@ In terminal you will see (pyRAP) next to your username. Every time you use pyRAP
 Still being in your pyRAP folder you can run the pyRAP pipeline by typing in terminal
 
 $ python3 pipeline.py -f FOLDER -c FILE --output_folder FOLDER
+
+Three inputs are mandatory:
+1. -f FOLDER (path to wig folder)
+2. -c FILE (chrom size file, see folder "chrom_size_files")
+3. --output_folder FOLDER (path to output folder)
 
 The pyRAP pipeline has a number of options. To view them all and for help of usage type:
 
