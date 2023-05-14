@@ -22,6 +22,7 @@ compare_peaks_across_samples = '/Users/andreas/Bacillus/Bioinformatics/Txt_and_w
 
 
 ### If you only wanna analyse a small region of the genome specify location here
+### and remember to add the flags in the terminal input below.
 genome_start = 2385394 # --genome_start {}
 genome_end = 2387825 # --genome_end {}
 
