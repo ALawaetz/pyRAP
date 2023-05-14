@@ -93,4 +93,6 @@ Genomic coordinates of start and stop sites and operon boundaries determined by 
 
 Naming of files is done based on the names of the input files. If other names are to be used those names can be provided with the -n flag which takes txt files as input (see example in the folder Txt_files_examples). pyRAP also includes a statistics module where the --feature_distance flag defines the features on which statistics is to be carried out (example in the folder Txt_files_examples). Differentially expressed peaks can be found using the --compare_peaks_across_samples flag which takes a txt file as input denoting what conditions should be compared (example in the folder Txt_files_examples).
 
+pyRAP needs to know the name of the genome version and the size of the genome for the wig files analysed. This file is provided by the flag -c flag and the input is a txt file (see example in folder Chrom_size_files). 
+
 
