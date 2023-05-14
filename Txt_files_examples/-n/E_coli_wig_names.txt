@@ -1,0 +1,4 @@
+E_coli_WT
+E_coli_exo
+E_coli_pnp
+E_coli_rnb
