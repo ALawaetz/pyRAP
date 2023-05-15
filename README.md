@@ -95,4 +95,5 @@ Naming of files is done based on the names of the input files. If other names ar
 
 pyRAP needs to know the name of the genome version and the size of the genome for the wig files analysed. This file is provided by the flag -c flag and the input is a txt file (see example in folder Chrom_size_files). 
 
+The output of pyRAP is annotation files in GFF3 or GTF format. The annotation files can be found in the output folder/pipeline/Annotation_files
 
