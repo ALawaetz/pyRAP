@@ -789,6 +789,6 @@ if options.output == 'GTF':
 
 
 try:
-    shutil.copy(folders.base_folder + '/Terminal_input.py', options.output_folder + '/Terminal_input.py')
+    shutil.copy(folders.base_folder + '/EXAMPLE_Terminal_input.py', options.output_folder + '/EXAMPLE_Terminal_input.py')
 except:
     pass
