@@ -781,7 +781,7 @@ def delete_1_bp(file):
 ### We will then relabel that novel transcript as Novel_rRNA_or_tRNA_adjacent
 def relabel_novel(pyRAP_file, old_annotation_file):
     pyrap = pd.read_csv(pyRAP_file, sep = '\t', names = ['seqID', 'source', 'feature', 'start', 'end', 'score', 'strand', 'phase', 'attributes'])
-    old_annotation = pd.read_csv(old_annotation_file, sep = '\t', names = ['seqID', 'source', 'feature', 'start', 'end', 'score', 'strand', 'phase', 'attributes'])
+    old_annotation = pd.read_csv(old_annotation_file, sep = '\t', header = 0)
     new_features = []
     for index, row in pyrap.iterrows():
         if row['feature'] != 'Novel_transcript':
