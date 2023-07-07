@@ -821,6 +821,9 @@ def delete_1_bp(file):
     for index, row in df.iterrows():
         if abs(row['start'] - row['end']) <= 1:
             df = df[df.index != index]
+    df['score'] = ['.'] * len(df)
+    df['start'] = df['start'].astype('int')
+    df['end'] = df['end'].astype('int')
     df.to_csv(file, sep = '\t', index = False, header = None)
 
 
