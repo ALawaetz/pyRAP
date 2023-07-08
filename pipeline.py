@@ -89,7 +89,7 @@ parser.add_option("--pool", dest="pool", type = 'int',
 parser.add_option("--output_folder", dest="output_folder",
                   help="Path to output folder", metavar="FOLDER")
 parser.add_option("--output", dest="output", choices=['GFF3', 'GTF', 'All'],
-                  help="Define outout (GFF3, GTF, or All)", default='GFF3')
+                  help="Define output (GFF3, GTF, or All)", default='GFF3')
 parser.add_option("--statistics", dest="statistics", action='store_true',
                   help="Choose this option if you want to add a statistical analysis")
 parser.add_option("--stat_cond", dest="stat_cond",
