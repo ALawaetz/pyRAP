@@ -8,4 +8,4 @@ except:
     pass
 
 os.chdir(os.path.expanduser('~/anaconda3/envs'))
-os.system('conda env create --file {}/pyrap_environment_alternative.yml --prefix pyRAP_trial'.format(base_folder))
+os.system('conda env create --file {}/pyrap_environment_alternative.yml --prefix pyRAP'.format(base_folder))
