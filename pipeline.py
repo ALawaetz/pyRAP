@@ -774,7 +774,7 @@ if options.statistics == True:
             print('Could not run part of statistical analysis to plot agreement with alternative coordinates')
     if options.feature_distance != None:
         try:
-            statistical_analysis.distance(folders.analysis_folder + '/Statistics_All_conditions.txt', folders.distance_folder, options.feature_distance)
+            statistical_analysis.distance(folders.analysis_folder + f"/Statistics_{options.stat_cond}.txt", folders.distance_folder, options.feature_distance)
         except:
             print('Could not run part of statistical analysis to plot distance to alternative coordinates. Make sure your --feature_distance file is correct.')
     if options.compare_peaks_across_samples != None:
