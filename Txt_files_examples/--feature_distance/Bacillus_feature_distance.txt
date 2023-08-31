@@ -1,0 +1,11 @@
+feature	dist_id	sRNA_type	title	file_name
+CDS	start_dist	not_sRNA	CDS ($\Delta$start)	CDS_start
+CDS	stop_dist	not_sRNA	CDS ($\Delta$stop)	CDS_stop
+sRNA	start_dist	na	sRNA ($\Delta$start)	sRNA_start
+sRNA	stop_dist	na	sRNA ($\Delta$stop)	sRNA_stop
+sRNA	start_dist	5'UTR	5'UTR ($\Delta$start)	5UTR_start
+sRNA	stop_dist	3'UTR	3'UTR ($\Delta$stop)	3UTR_stop
+rRNA	start_dist	not_sRNA	rRNA ($\Delta$start)	rRNA_start
+rRNA	stop_dist	not_sRNA	rRNA ($\Delta$stop)	rRNA_stop
+tRNA	start_dist	not_sRNA	tRNA ($\Delta$start)	tRNA_start
+tRNA	stop_dist	not_sRNA	tRNA ($\Delta$stop)	tRNA_stop
