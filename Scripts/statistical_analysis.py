@@ -356,6 +356,7 @@ def distance(stat_file, distance_folder, feature_file):
     dist_id = feature_df['dist_id'].tolist()
     sRNA_type = feature_df['sRNA_type'].tolist()
     titles = feature_df['title'].tolist()
+    file_names = feature_df['file_name'].tolist()
 
     for feat, id, type, title in zip(feature, dist_id, sRNA_type, titles):
         if type != 'na':
