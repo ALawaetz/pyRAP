@@ -1,7 +1,7 @@
 # pyRAP
-Pipeline to annotate Rend-seq data genomewide
+Pipeline to annotate Rend-seq data genome-wide
 
-The pyRAP pipeline take wig files as input and outputs annotation files in GFF3 or GTF format.
+The pyRAP pipeline takes wig files as input and outputs annotation files in GFF3 or GTF format.
 
 ## Installation
 The pipeline is written completely in Python 3. Dependencies can be found in the file pyrap_environment.yml. For installation of dependencies, see below.
