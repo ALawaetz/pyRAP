@@ -83,7 +83,7 @@ def fdr_local(file):
         sum_reads = int(sum(reads))
 
         ### randomly distribute reads across gene
-        gene_length = abs(end - start)
+        gene_length = int(abs(end - start))
         genomic_positions = [i for i in range(gene_length)]
         random_reads_allocation = []
         for i in range(sum_reads):
