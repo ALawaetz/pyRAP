@@ -303,6 +303,55 @@ if len([i for i in os.listdir(folders.peak_folder_0) if i != '.DS_Store']) == le
 else:
     os.wait()
 
+### Make a copy of the original calculated z-scores
+for file in glob.glob(folders.peak_folder_0 + '/*.csv'):
+    shutil.copy(file, f'{folders.peak_folder_0_zscores}/{os.path.basename(file)}')
+
+
+################## Verify flagged peaks with alternative termini files
+
+
+cap_term = {}
+if options.cap_seq != None:
+    cap = pd.read_csv(options.cap_seq, sep = ',', header = 0)
+    cap_fwd = cap['location'][cap['strand'] == '+'].tolist()
+    cap_rev = cap['location'][cap['strand'] == '-'].tolist()
+    cap_term['starts_fwd'] = cap_fwd
+    cap_term['starts_rev'] = cap_rev
+if options.term_seq != None:
+    term = pd.read_csv(options.term_seq, sep = ',', header = 0)
+    if 'strand' in term.columns:
+        term_fwd = term['location'][term['strand'] == '+'].tolist()
+        term_rev = term['location'][term['strand'] == '-'].tolist()
+        cap_term['stops_fwd'] = term_fwd
+        cap_term['stops_rev'] = term_rev
+    else:
+        term_all = term['location'].tolist()
+        cap_term['stops_all'] = term_all
+
+operon_starts_stops = {}
+if options.operon_starts != None:
+    cap = pd.read_csv(options.operon_starts, sep = ',', header = 0)
+    cap_fwd = cap['location'][cap['strand'] == '+'].tolist()
+    cap_rev = cap['location'][cap['strand'] == '-'].tolist()
+    operon_starts_stops['starts_fwd'] = cap_fwd
+    operon_starts_stops['starts_rev'] = cap_rev
+if options.operon_stops != None:
+    term = pd.read_csv(options.operon_stops, sep = ',', header = 0)
+    term_fwd = term['location'][term['strand'] == '+'].tolist()
+    term_rev = term['location'][term['strand'] == '-'].tolist()
+    operon_starts_stops['stops_fwd'] = term_fwd
+    operon_starts_stops['stops_rev'] = term_rev
+
+
+if options.cap_seq != None or options.term_seq != None:
+    print('Reevaluating peaks using alternative termini files')
+    np.save(os.path.join(folders.analysis_folder, 'cap_term.npy'), cap_term)
+    capterm_path = folders.analysis_folder + 'cap_term.npy'
+    for file in glob.glob(folders.peak_folder_0 + '/*.csv'):
+        os.system(f'python3 {folders.supplyCapTerm_script} {file} {options.z_ii} {capterm_path}')
+
+
 
 ################################################################################
 ############################## Make operon file ##################################
@@ -457,10 +506,8 @@ file = folders.GFF3_folder_1 + '/All_conditions.gff3'
 
 if options.fdr != 0:
     print('Reevaluating peaks with FDR')
-    # fdr.fdr(file, options.fdr, folders.peak_folder_1, folders.peak_folder_2, folders.peak_folder_2, options.z_ii, folders.FDR_tuples_folder)
     os.system('python3 {} {} {} {} {}'.format(folders.fdr_script, folders.peak_folder_1, options.fdr, folders.peak_folder_2, options.processors))
-    # for file in glob.glob(folders.peak_folder_1 + '*.csv'):
-    #     fdr.fdr_local(file, options.fdr, folders.peak_folder_2)
+
 
 
 ################################################################################
@@ -580,42 +627,9 @@ if options.fdr != 0 and options.unique == None:
         os.system('mv {} {}{}'.format(file, folders.GFF3_folder_3, os.path.basename(file)))
 
 
-cap_term = {}
-if options.cap_seq != None:
-    cap = pd.read_csv(options.cap_seq, sep = ',', header = 0)
-    cap_fwd = cap['location'][cap['strand'] == '+'].tolist()
-    cap_rev = cap['location'][cap['strand'] == '-'].tolist()
-    cap_term['starts_fwd'] = cap_fwd
-    cap_term['starts_rev'] = cap_rev
-if options.term_seq != None:
-    term = pd.read_csv(options.term_seq, sep = ',', header = 0)
-    if 'strand' in term.columns:
-        term_fwd = term['location'][term['strand'] == '+'].tolist()
-        term_rev = term['location'][term['strand'] == '-'].tolist()
-        cap_term['stops_fwd'] = term_fwd
-        cap_term['stops_rev'] = term_rev
-    else:
-        term_all = term['location'].tolist()
-        cap_term['stops_all'] = term_all
-
-operon_starts_stops = {}
-if options.operon_starts != None:
-    cap = pd.read_csv(options.operon_starts, sep = ',', header = 0)
-    cap_fwd = cap['location'][cap['strand'] == '+'].tolist()
-    cap_rev = cap['location'][cap['strand'] == '-'].tolist()
-    operon_starts_stops['starts_fwd'] = cap_fwd
-    operon_starts_stops['starts_rev'] = cap_rev
-if options.operon_stops != None:
-    term = pd.read_csv(options.operon_stops, sep = ',', header = 0)
-    term_fwd = term['location'][term['strand'] == '+'].tolist()
-    term_rev = term['location'][term['strand'] == '-'].tolist()
-    operon_starts_stops['stops_fwd'] = term_fwd
-    operon_starts_stops['stops_rev'] = term_rev
 
 if options.cap_seq != None or options.term_seq != None:
     if options.old_annotation != None:
-        print('Searching for peaks using alternative peak files')
-        np.save(os.path.join(folders.analysis_folder, 'cap_term.npy'), cap_term)
         for file in glob.glob(folders.peak_folder_3 + '*.csv'):
             condition = os.path.basename(file)[:-8]
             gff_file = folders.GFF3_folder_3 + condition + '.gff3'
